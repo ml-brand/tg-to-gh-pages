@@ -1,0 +1,102 @@
+name: Sync Telegram channel to GitHub Pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "docs/**"
+  schedule:
+    - cron: "47 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      # Static snapshot generation is opt-in via repository variable GENERATE_STATIC ("true"/"1").
+      GENERATE_STATIC: ${{ vars.GENERATE_STATIC }}
+      # SEO switch: set repository variable SEO ("true"/"1") to generate sitemap/robots.
+      GENERATE_SITE_FILES: ${{ vars.SEO }}
+      # Feeds (RSS/Atom) switch: set repository variable FEED ("true"/"1") to generate feeds.
+      GENERATE_FEEDS: ${{ vars.FEED }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch Telegram posts
+        env:
+          TG_API_ID: ${{ secrets.TG_API_ID }}
+          TG_API_HASH: ${{ secrets.TG_API_HASH }}
+          TG_SESSION: ${{ secrets.TG_SESSION }}
+          TG_CHANNEL: ${{ vars.TG_CHANNEL }}
+          TG_CHANNEL_SPECIFIC_LINK: ${{ vars.TG_CHANNEL_SPECIFIC_LINK }}
+          PROMO_TEXT: ${{ vars.PROMO_TEXT }}
+          # Optional tuning (set as Repository Variables or hardcode here)
+          DOWNLOAD_MEDIA: ${{ vars.DOWNLOAD_MEDIA || 'true' }}
+          MEDIA_MAX_MB: ${{ vars.MEDIA_MAX_MB || '200' }}
+          INITIAL_FETCH_LIMIT: ${{ vars.INITIAL_FETCH_LIMIT || '1000' }}
+          REFRESH_LAST_N: ${{ vars.REFRESH_LAST_N || '200' }}
+          MEDIA_DOWNLOAD_SCOPE: ${{ vars.MEDIA_DOWNLOAD_SCOPE || '1000' }}
+          MAX_RETRIES: ${{ vars.MAX_RETRIES || '5' }}
+          BACKOFF_SECONDS: ${{ vars.BACKOFF_SECONDS || '2.0' }}
+          GENERATE_STATIC: ${{ env.GENERATE_STATIC }}
+          GENERATE_SITE_FILES: ${{ env.GENERATE_SITE_FILES }}
+          GENERATE_FEEDS: ${{ env.GENERATE_FEEDS }}
+          METRIKA_ID: ${{ vars.METRIKA_ID }}
+        run: |
+          PYTHONPATH=. python scripts/fetch_telegram.py
+        continue-on-error: false
+
+      - name: Detect data/media changes
+        id: detect_changes
+        if: ${{ success() }}
+        run: |
+          changed=false
+          if git status --porcelain docs/data docs/assets/media docs/assets/channel_avatar.jpg docs/favicon.ico docs/favicon-32.png docs/apple-touch-icon.png docs/metrika.js | grep -q .; then
+            changed=true
+          fi
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+
+      - name: Build static HTML snapshot
+        if: ${{ success() && steps.detect_changes.outputs.changed == 'true' && (env.GENERATE_STATIC == 'true' || env.GENERATE_STATIC == '1' || env.GENERATE_STATIC == 'yes' || env.GENERATE_STATIC == 'on') }}
+        run: |
+          PYTHONPATH=. python scripts/build_static.py
+        continue-on-error: false
+
+      - name: Commit & push if changed
+        if: ${{ success() && steps.detect_changes.outputs.changed == 'true' }}
+        run: |
+          git config user.name "telegram-mirror-bot"
+          git config user.email "telegram-mirror-bot@users.noreply.github.com"
+
+          git add -A docs/data docs/assets docs/feed.xml docs/atom.xml docs/sitemap.xml docs/robots.txt docs/static docs/metrika.js \
+            docs/favicon.ico docs/favicon-32.png docs/apple-touch-icon.png || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Sync Telegram posts (UTC) $(date -u +'%Y-%m-%d %H:%M:%S')"
+          git push
