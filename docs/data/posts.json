@@ -1907,7 +1907,7 @@
     "html": "#opensource : RuLeanALBERT от Yandex Research<br>2.9B трансформер для русского, которая влезет в домашнюю ПеКарню ресерчера<br><br>Мало того, что это самая большая БЕРТ-подобная модель для русского языка, которая показывает крутые результаты в бенчмарках, так еще и с кодом для fine-tuning-а<br><br><a href=\"https://github.com/yandex-research/RuLeanALBERT\" rel=\"nofollow noopener noreferrer\">GitHub</a><br><br>А в <a href=\"https://habr.com/ru/company/yandex/blog/688234/\" rel=\"nofollow noopener noreferrer\">статье</a> можете узнать, как обучалась эта модель (а-ля коллаборативное глубокое обучение) на фреймворке по децентрализованному обучению <a href=\"https://github.com/learning-at-home/hivemind\" rel=\"nofollow noopener noreferrer\">Hivemind</a>",
     "link": "https://t.me/powerofdata/148",
     "type": "photo",
-    "views": 26366,
+    "views": 26367,
     "forwards": 178,
     "grouped_id": null,
     "media": [
@@ -1946,7 +1946,7 @@
     "html": "#events : ML-тренировка<br>Когда: 17 (четверг) ноября 2022, 19:00 - 21:30 (сбор с 18:00)<br>Место: офис Яндекса (Москва, улица Льва Толстого, 16) + онлайн<br>Язык - русский<br><br>В этот раз нас ждёт 3 доклада:<br>- призер только что завершившегося Yandex ML Cup,<br>- 2ое место хакатона AgroCode Hack по анализу спутниковых снимков для виноградников<br>- организатор ML соревнований в информационной безопасности<br><br>Подробная программа по ссылке ниже<br>Будем рады видеть всех очно и онлайн ;)<br><a href=\"https://events.yandex.ru/events/datadojo-17-11-2022/?from=permakov\" rel=\"nofollow noopener noreferrer\">Регистрация обязательна</a>",
     "link": "https://t.me/powerofdata/149",
     "type": "photo",
-    "views": 21656,
+    "views": 21657,
     "forwards": 70,
     "grouped_id": null,
     "media": [
