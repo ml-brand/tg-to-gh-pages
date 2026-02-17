@@ -3907,7 +3907,7 @@
     "html": "Яндекс открыл демку своей GPT-3<br>Посмотреть можно тут <a href=\"https://yandex.ru/lab/yalm\" rel=\"nofollow noopener noreferrer\">https://yandex.ru/lab/yalm</a><br>А кратко как работает тут <a href=\"https://yandex.ru/lab/yalm-howto\" rel=\"nofollow noopener noreferrer\">https://yandex.ru/lab/yalm-howto</a>",
     "link": "https://t.me/powerofdata/120",
     "type": "photo",
-    "views": 2944,
+    "views": 2945,
     "forwards": 56,
     "grouped_id": null,
     "media": [
@@ -3920,8 +3920,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 119,
