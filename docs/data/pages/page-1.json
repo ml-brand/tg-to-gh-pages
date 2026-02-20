@@ -3792,7 +3792,7 @@
     "html": "В комментарии к посту выше,заметили, что выпилили чувствительные темы",
     "link": "https://t.me/powerofdata/126",
     "type": "photo",
-    "views": 2258,
+    "views": 2259,
     "forwards": 15,
     "grouped_id": null,
     "media": [
@@ -3805,8 +3805,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 125,
