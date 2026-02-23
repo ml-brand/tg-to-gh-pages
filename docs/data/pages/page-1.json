@@ -7,7 +7,7 @@
     "html": "ML-инженер не обязан лететь на NeurIPS. Но может, если хочет. Я выберу того, кто хочет.<br><br>🎯 Забегай к нам на ML Global Recap 11 декабря, обсудим:<br>➖ NeurlPS<br>➖ CIKM и RecSys и тренды в рекомендательных технологиях<br>➖ ICLR и тренды в компьютерном зрении <br>➖ ICLR и ACL и тренды в NLP<br>➖ Interspeech и тренды в технологиях распознавания речи<br><br>Со всех конф 2025 года везли вам самые интересные папиры<br>О них и куча нетворка: 11 декабря | 18:00 | Москва и онлайн<br>🔗 Подробная программа и регистрация по <a href=\"https://events.yandex.ru/events/ml-global-recap/11-dec-2025?utm_source=tg&amp;utm_medium=owned_media&amp;utm_campaign=recap2025_10_promo&amp;utm_content=ods\" rel=\"nofollow noopener noreferrer\">ссылке</a>.",
     "link": "https://t.me/powerofdata/250",
     "type": "photo",
-    "views": 900,
+    "views": 901,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -46,7 +46,7 @@
     "html": "<a href=\"https://openai.com/index/gpt-5-1/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/gpt-5-1/</a>",
     "link": "https://t.me/powerofdata/249",
     "type": "photo",
-    "views": 1033,
+    "views": 1034,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -69,7 +69,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/248",
     "type": "image",
-    "views": 887,
+    "views": 888,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -92,7 +92,7 @@
     "html": "<a href=\"https://news.lmarena.ai/code-arena/\" rel=\"nofollow noopener noreferrer\">https://news.lmarena.ai/code-arena/</a>",
     "link": "https://t.me/powerofdata/247",
     "type": "photo",
-    "views": 1004,
+    "views": 1005,
     "forwards": 3,
     "grouped_id": null,
     "media": [
@@ -2879,7 +2879,7 @@
     "html": "Вышел kandinsky 2.1<br>Почитать можно <a href=\"https://t.me/complete_ai/108\" rel=\"nofollow noopener noreferrer\">тут</a><br><br>А это код, который дергает публичную API (пока работает)<br>Можете погенерировать картинки на любом тапке с установленным питоном<br><br>UPD: Но ожидания в очереди жесть)<br><pre><br>    <code class=\"language-\"><br>        <br>import PIL<br>import base64<br>import io<br>import requests<br>import time<br><br>text = &quot;комикс игра престолов&quot;<br><br>wtf = &#x27;----WebKitFormBoundarywlnxcaZpV1ghiA4E&#x27;<br>cdfdn = &#x27;\\r\\nContent-Disposition: form-data; name=&#x27;<br>api_url = &#x27;https://fusionbrain.ai/api/v1/text2image&#x27;<br>api_url_run = api_url + &#x27;/run&#x27;<br>api_url_pockets = api_url + &#x27;/generate/pockets/&#x27;<br><br>data = (f&#x27;--{wtf}{cdfdn}&quot;queueType&quot;\\r\\n\\r\\ngenerate\\r\\n--{wtf}&#x27; +<br>               f&#x27;{cdfdn}&quot;query&quot;\\r\\n\\r\\n{text}\\r\\n--{wtf}&#x27; +<br>               f&#x27;{cdfdn}&quot;preset&quot;\\r\\n\\r\\n1\\r\\n--{wtf}&#x27; +<br>               f&#x27;{cdfdn}&quot;style&quot;\\r\\n\\r\\n\\r\\n--{wtf}--\\r\\n&#x27;).encode()<br><br>response = requests.post(api_url_run, headers={&#x27;Content-Type&#x27;: f&#x27;multipart/form-data; boundary={wtf}&#x27;}, data=data)<br>pocket = response.json()[&#x27;result&#x27;][&#x27;pocketId&#x27;]<br>time.sleep(3)<br>response = requests.get(api_url_pockets + f&quot;{pocket}/status&quot;,<br>    headers={&#x27;Content-Type&#x27;: f&#x27;multipart/form-data; boundary={wtf}&#x27;},<br>)<br><br>while response.json()[&#x27;result&#x27;] != &#x27;SUCCESS&#x27;:<br>    print(response.json()[&#x27;result&#x27;])<br>    time.sleep(3)<br>    response = requests.get(api_url_pockets + f&quot;{pocket}/status&quot;)<br><br>response = requests.get(api_url_pockets + f&quot;{pocket}/entities&quot;)<br><br>msg = base64.b64decode(response.json()[&#x27;result&#x27;][0][&#x27;response&#x27;][0])<br>buf = io.BytesIO(msg)<br>img = PIL.Image.open(buf)<br><br>img{}<br>    </code><br></pre><br><br>@powerofdata",
     "link": "https://t.me/powerofdata/165",
     "type": "text",
-    "views": 3713,
+    "views": 3714,
     "forwards": 38,
     "grouped_id": null,
     "media": [],
