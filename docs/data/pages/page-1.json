@@ -786,7 +786,7 @@
     "html": "OpenAI открыла веса двух моделей под Apache 2.0: gpt-oss-120b и gpt-oss-20b. Они ориентированы на реальное применение, сильны в reasoning и tool use, и доступны для коммерции. <br><br>Производительность и железо.<br>• 120b показывает «почти паритет» с o4-mini на core-бенчмарках и работает на одном 80 GB GPU (H100). <br>• 20b сопоставима с o3-mini и запускается в ~16 GB памяти — вариант для edge/on-device. <br><br>Архитектура.<br>Mixture-of-Experts (MoE): 117B/21B параметров, но активных — 5.1B и 3.6B; RoPE, контекст до 128k. <br><br>Обе модели отдаются нативно MXFP4: 120b укладывается в 80 GB, 20b — в 16 GB. <br><br>Формат ответов и reasoning-уровни.<br>Используют harmony response format; поддерживают переключение «Reasoning: low/medium/high». (Важно: CoT доступен для разработчиков) <br><br>Функции: function calling/Structured Outputs, web-browsing, Python-выполнение — для агентных сценариев. <br><br>Готовы к запуску через Transformers/vLLM, а также Ollama и LM Studio; доступны через крупных inference-провайдеров (HF, Groq, Fireworks, Together, Cerebras и др.). <br><br>Microsoft добавляет оптимизированные сборки 20b на Windows (ONNX Runtime, Foundry Local, AI Toolkit for VS Code). <br><br>Модели прошли расширенные safety-оценки (включая тесты adversarial fine-tuning) и показывают сопоставимые с «фронтирными» моделями результаты на внутренних метриках; запущен Red Teaming Challenge с призовым фондом $500k.",
     "link": "https://t.me/powerofdata/225",
     "type": "text",
-    "views": 1243,
+    "views": 1244,
     "forwards": 14,
     "grouped_id": null,
     "media": [],
