@@ -3508,7 +3508,7 @@
     "text": "#model : Языковая модель c 176b параметрами\nhttps://huggingface.co/bigscience/bloom\nНесколько недель назад закончилось обучение BLOOM модели от BigScience\nСегодня её выложили\n59 языков (русского нет)\n\nСамой большой языковой моделью с русским языком в открытом доступе остается YaLM-100b",
     "html": "#model : Языковая модель c 176b параметрами<br><a href=\"https://huggingface.co/bigscience/bloom\" rel=\"nofollow noopener noreferrer\">https://huggingface.co/bigscience/bloom</a><br>Несколько недель назад закончилось обучение BLOOM модели от BigScience<br>Сегодня её выложили<br>59 языков (русского нет)<br><br>Самой большой языковой моделью с русским языком в открытом доступе остается <a href=\"https://github.com/yandex/YaLM-100B\" rel=\"nofollow noopener noreferrer\">YaLM-100b</a>",
     "link": "https://t.me/powerofdata/143",
-    "type": "photo",
+    "type": "text",
     "views": 3547,
     "forwards": 8,
     "grouped_id": null,
@@ -3522,8 +3522,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 142,
@@ -4306,7 +4305,7 @@
     "html": "#events : ML-тренировка<br>Когда: 16 (суббота) ноября 2019, 15:00 - 18:00 (сбор в 14:30)<br>Место: ФКН ВШЭ, аудитория R405, Покровский бульвар, 11 (вход #3 с Дурасовского переулка)<br>Язык докладов - русский, английский<br><br>ML-тренировки - выступление Data Scientist-ов о своем опыте участия в конкурсах по машинному обучению.<br><br>ML тренировки - открытый митап с докладами Data Scientist-ов о своем опыте участия в конкурсах по машинному обучению.<br>В программе 16 ноября:<br>- Артур Кузин &quot;Kaggle Open Images 2019&quot; [en]<br>- Павел Якубовский, Илья Добрынин &quot;Kaggle Severstal: Steel Defect Detection&quot;<br>- Владислав Крамаренко &quot;Artificial Intelligence Journey 2019&quot;<br>- Даниил Анастасьев &quot;Artificial Intelligence Journey 2019&quot;<br><br>Обязательна регистрация, число мест ограничено, поэтому поторопитесь: <a href=\"http://xxtt.ru/b63a\" rel=\"nofollow noopener noreferrer\">http://xxtt.ru/b63a</a>",
     "link": "https://t.me/powerofdata/90",
     "type": "text",
-    "views": 2718,
+    "views": 2719,
     "forwards": 16,
     "grouped_id": null,
     "media": [],
