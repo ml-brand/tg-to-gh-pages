@@ -3386,7 +3386,7 @@
     "html": "#opensource : RuLeanALBERT от Yandex Research<br>2.9B трансформер для русского, которая влезет в домашнюю ПеКарню ресерчера<br><br>Мало того, что это самая большая БЕРТ-подобная модель для русского языка, которая показывает крутые результаты в бенчмарках, так еще и с кодом для fine-tuning-а<br><br><a href=\"https://github.com/yandex-research/RuLeanALBERT\" rel=\"nofollow noopener noreferrer\">GitHub</a><br><br>А в <a href=\"https://habr.com/ru/company/yandex/blog/688234/\" rel=\"nofollow noopener noreferrer\">статье</a> можете узнать, как обучалась эта модель (а-ля коллаборативное глубокое обучение) на фреймворке по децентрализованному обучению <a href=\"https://github.com/learning-at-home/hivemind\" rel=\"nofollow noopener noreferrer\">Hivemind</a>",
     "link": "https://t.me/powerofdata/148",
     "type": "photo",
-    "views": 26374,
+    "views": 26375,
     "forwards": 178,
     "grouped_id": null,
     "media": [
