@@ -4816,7 +4816,7 @@
     "html": "<strong>Новые инструменты и модели</strong><br><br>- <strong>Alibaba Qoder – AI-ассистент для кода</strong>: Alibaba запустила платформу Qoder, где модель помогает разработчикам писать программный код. В Quest Mode система автономно генерирует и тестирует код по заданным спецификациям, отмечая выполненные задачи (тикеты). В Agent Mode Qoder выступает в роли помощника: анализирует существующий код, подсказывает решения и отвечает на вопросы разработчика. Платформа автоматически выбирает оптимальную модель (Claude, Gemini или ChatGPT) под конкретную задачу. Сейчас Qoder доступен бесплатно, а позднее планируются платные тарифы. [<a href=\"https://qoder.com/\" rel=\"nofollow noopener noreferrer\">сайт модели</a>] [<a href=\"https://www.iphones.ru/iNotes/alibaba-zapustila-besplatnyy-ii-qoder-dlya-razrabotchikov-on-sam-pishet-kod-i-otmechaet-vypolnennye-zadachki\" rel=\"nofollow noopener noreferrer\">iphones.ru</a>]<br><br>- <strong>Модели для редактирования изображений от Alibaba:</strong> Представлена Qwen-Image-Edit – новая открытая модель для редактирования изображений. Она позволяет добавлять или удалять объекты по текстовому описанию, сохраняя остальную часть изображения неизменной. Кроме того, модель поддерживает сложные трансформации – например, поворот объекта на 180° (чтобы показать его обратную сторону) или перенос изображения в иной художественный стиль – при этом композиция и ключевые черты оригинала сохраняются. Qwen-Image-Edit также умеет редактировать текст на картинках, подменяя надписи без нарушения шрифтов и стиля. [<a href=\"https://huggingface.co/Qwen/Qwen-Image-Edit\" rel=\"nofollow noopener noreferrer\">hf</a>]<br><br>- <strong>Компактный LLM от Nvidia</strong>: Nemotron-Nano-9B-v2 – новая компактная языковая модель от Nvidia на 9 млрд параметров. Несмотря на относительно небольшой размер, модель достигает SOTA-производительности в своём классе и оснащена функцией переключаемого режима &quot;reasoning&quot; (включение/выключение рассуждений). Благодаря гибридной архитектуре Transformer+Mamba модель может задействовать селективные слои состояния для длинного контекста, что повышает скорость обработки – до 6 раз быстрее аналогичных моделей такого же размера. Nemotron 9B v2 поддерживает много языков (английский, китайский, русский и др.). Модель открыта для сообщества – веса и обучающие данные доступны на Hugging Face. [<a href=\"https://huggingface.co/collections/nvidia/nvidia-nemotron-689f6d6e6ead8e77dd641615\" rel=\"nofollow noopener noreferrer\">hf</a>] [<a href=\"https://build.nvidia.com/nvidia/nvidia-nemotron-nano-9b-v2/modelcard\" rel=\"nofollow noopener noreferrer\">nvidia.com</a>]<br><br>- <strong>Открытая MoE-модель Grok 2 от xAI</strong>: Компания Илона Маска xAI выложила на Hugging Face веса своей новой модели Grok 2. Это крупная Mixture-of-Experts LLM, архитектурно состоящая из 8 локальных экспертов (по 2 активных эксперта на токен), подобно Grok-1, но усовершенствованная. Grok 2 обладает окном контекста – до 131 072 токенов. [<a href=\"https://huggingface.co/xai-org/grok-2/blob/main/README.md\" rel=\"nofollow noopener noreferrer\">hf</a>]<br><br>- <strong>DeepSeek 3.1 – обновленая LLM от DeepSeek</strong>: Вышла новая версия DeepSeek v3.1 в 685-миллиардов параметров. Модель позиционируется как гибридная reasoning LLM. По данным разработчиков, DeepSeek 3.1 достигла такого же качества ответов, как DeepSeek-R1, но отвечает значительно быстрее. Релиз также включает новые примеры AI-агентов для кода и веб-поиска. [<a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V3.1\" rel=\"nofollow noopener noreferrer\">hf</a>]<br><br>- <strong>Примеры проектов на GPT-5</strong>: OpenAI запустила новую платформу с примерами приложений, созданных полностью силами GPT-5. На сайте собраны десятки работающих веб-приложений и игр, каждое из которых было сгенерировано одним-единственным GPT-5-промптом без ручного написания кода. Пользователи могут в реальном времени запускать эти демо, изучать исходный промпт, который GPT-5 превратил в приложение, и при желании скопировать этот промпт для воссоздания проекта. Цель инициативы – вдохновить разработчиков на использование GPT-5 при быстром прототипировании [<a href=\"https://gpt5-coding-examples.vercel.app/\" rel=\"nofollow noopener noreferrer\">сайт проекта</a>]",
     "link": "https://t.me/powerofdata/235",
     "type": "text",
-    "views": 619,
+    "views": 620,
     "forwards": 3,
     "grouped_id": null,
     "media": [],
@@ -5195,7 +5195,7 @@
     "html": "<a href=\"https://news.lmarena.ai/code-arena/\" rel=\"nofollow noopener noreferrer\">https://news.lmarena.ai/code-arena/</a>",
     "link": "https://t.me/powerofdata/247",
     "type": "photo",
-    "views": 1024,
+    "views": 1025,
     "forwards": 3,
     "grouped_id": null,
     "media": [
@@ -5226,7 +5226,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/248",
     "type": "image",
-    "views": 914,
+    "views": 915,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5249,7 +5249,7 @@
     "html": "<a href=\"https://openai.com/index/gpt-5-1/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/gpt-5-1/</a>",
     "link": "https://t.me/powerofdata/249",
     "type": "photo",
-    "views": 1063,
+    "views": 1064,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5272,7 +5272,7 @@
     "html": "ML-инженер не обязан лететь на NeurIPS. Но может, если хочет. Я выберу того, кто хочет.<br><br>🎯 Забегай к нам на ML Global Recap 11 декабря, обсудим:<br>➖ NeurlPS<br>➖ CIKM и RecSys и тренды в рекомендательных технологиях<br>➖ ICLR и тренды в компьютерном зрении <br>➖ ICLR и ACL и тренды в NLP<br>➖ Interspeech и тренды в технологиях распознавания речи<br><br>Со всех конф 2025 года везли вам самые интересные папиры<br>О них и куча нетворка: 11 декабря | 18:00 | Москва и онлайн<br>🔗 Подробная программа и регистрация по <a href=\"https://events.yandex.ru/events/ml-global-recap/11-dec-2025?utm_source=tg&amp;utm_medium=owned_media&amp;utm_campaign=recap2025_10_promo&amp;utm_content=ods\" rel=\"nofollow noopener noreferrer\">ссылке</a>.",
     "link": "https://t.me/powerofdata/250",
     "type": "photo",
-    "views": 933,
+    "views": 934,
     "forwards": 9,
     "grouped_id": null,
     "media": [
