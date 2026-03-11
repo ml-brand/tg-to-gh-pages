@@ -7,7 +7,7 @@
     "html": "ML-инженер не обязан лететь на NeurIPS. Но может, если хочет. Я выберу того, кто хочет.<br><br>🎯 Забегай к нам на ML Global Recap 11 декабря, обсудим:<br>➖ NeurlPS<br>➖ CIKM и RecSys и тренды в рекомендательных технологиях<br>➖ ICLR и тренды в компьютерном зрении <br>➖ ICLR и ACL и тренды в NLP<br>➖ Interspeech и тренды в технологиях распознавания речи<br><br>Со всех конф 2025 года везли вам самые интересные папиры<br>О них и куча нетворка: 11 декабря | 18:00 | Москва и онлайн<br>🔗 Подробная программа и регистрация по <a href=\"https://events.yandex.ru/events/ml-global-recap/11-dec-2025?utm_source=tg&amp;utm_medium=owned_media&amp;utm_campaign=recap2025_10_promo&amp;utm_content=ods\" rel=\"nofollow noopener noreferrer\">ссылке</a>.",
     "link": "https://t.me/powerofdata/250",
     "type": "photo",
-    "views": 945,
+    "views": 949,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -46,7 +46,7 @@
     "html": "<a href=\"https://openai.com/index/gpt-5-1/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/gpt-5-1/</a>",
     "link": "https://t.me/powerofdata/249",
     "type": "photo",
-    "views": 1071,
+    "views": 1074,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -69,7 +69,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/248",
     "type": "image",
-    "views": 920,
+    "views": 922,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -92,7 +92,7 @@
     "html": "<a href=\"https://news.lmarena.ai/code-arena/\" rel=\"nofollow noopener noreferrer\">https://news.lmarena.ai/code-arena/</a>",
     "link": "https://t.me/powerofdata/247",
     "type": "photo",
-    "views": 1030,
+    "views": 1032,
     "forwards": 3,
     "grouped_id": null,
     "media": [
@@ -123,7 +123,7 @@
     "html": "Скоро новогодние корпоративы, главное чтоб этим роботом не были вы",
     "link": "https://t.me/powerofdata/246",
     "type": "video",
-    "views": 1078,
+    "views": 1080,
     "forwards": 20,
     "grouped_id": null,
     "media": [
@@ -3373,7 +3373,7 @@
     "html": "#opensource : RuLeanALBERT от Yandex Research<br>2.9B трансформер для русского, которая влезет в домашнюю ПеКарню ресерчера<br><br>Мало того, что это самая большая БЕРТ-подобная модель для русского языка, которая показывает крутые результаты в бенчмарках, так еще и с кодом для fine-tuning-а<br><br><a href=\"https://github.com/yandex-research/RuLeanALBERT\" rel=\"nofollow noopener noreferrer\">GitHub</a><br><br>А в <a href=\"https://habr.com/ru/company/yandex/blog/688234/\" rel=\"nofollow noopener noreferrer\">статье</a> можете узнать, как обучалась эта модель (а-ля коллаборативное глубокое обучение) на фреймворке по децентрализованному обучению <a href=\"https://github.com/learning-at-home/hivemind\" rel=\"nofollow noopener noreferrer\">Hivemind</a>",
     "link": "https://t.me/powerofdata/148",
     "type": "photo",
-    "views": 26384,
+    "views": 26385,
     "forwards": 178,
     "grouped_id": null,
     "media": [
