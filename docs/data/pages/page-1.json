@@ -7,7 +7,7 @@
     "html": "ML-инженер не обязан лететь на NeurIPS. Но может, если хочет. Я выберу того, кто хочет.<br><br>🎯 Забегай к нам на ML Global Recap 11 декабря, обсудим:<br>➖ NeurlPS<br>➖ CIKM и RecSys и тренды в рекомендательных технологиях<br>➖ ICLR и тренды в компьютерном зрении <br>➖ ICLR и ACL и тренды в NLP<br>➖ Interspeech и тренды в технологиях распознавания речи<br><br>Со всех конф 2025 года везли вам самые интересные папиры<br>О них и куча нетворка: 11 декабря | 18:00 | Москва и онлайн<br>🔗 Подробная программа и регистрация по <a href=\"https://events.yandex.ru/events/ml-global-recap/11-dec-2025?utm_source=tg&amp;utm_medium=owned_media&amp;utm_campaign=recap2025_10_promo&amp;utm_content=ods\" rel=\"nofollow noopener noreferrer\">ссылке</a>.",
     "link": "https://t.me/powerofdata/250",
     "type": "photo",
-    "views": 971,
+    "views": 972,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -46,7 +46,7 @@
     "html": "<a href=\"https://openai.com/index/gpt-5-1/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/gpt-5-1/</a>",
     "link": "https://t.me/powerofdata/249",
     "type": "photo",
-    "views": 1091,
+    "views": 1092,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -69,7 +69,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/248",
     "type": "image",
-    "views": 935,
+    "views": 936,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -92,7 +92,7 @@
     "html": "<a href=\"https://news.lmarena.ai/code-arena/\" rel=\"nofollow noopener noreferrer\">https://news.lmarena.ai/code-arena/</a>",
     "link": "https://t.me/powerofdata/247",
     "type": "photo",
-    "views": 1044,
+    "views": 1045,
     "forwards": 3,
     "grouped_id": null,
     "media": [
@@ -123,7 +123,7 @@
     "html": "Скоро новогодние корпоративы, главное чтоб этим роботом не были вы",
     "link": "https://t.me/powerofdata/246",
     "type": "video",
-    "views": 1091,
+    "views": 1092,
     "forwards": 20,
     "grouped_id": null,
     "media": [
@@ -158,7 +158,7 @@
     "html": "Друзья, регистрация скоро закроется, честно.<br><br>27 сентября пройдет Practical ML Conf - лучшая конференция по ML в России. За качество отвечаю лично.<br><br><a href=\"https://pmlconf.yandex.ru/2025/?utm_source=pc&amp;utm_medium=link&amp;utm_campaign=pml_25&amp;utm_content=petr_telegr\" rel=\"nofollow noopener noreferrer\">Регистрируйтесь</a> на офлайн сейчас. А если не сможете быть в Москве, <a href=\"https://pmlconf.yandex.ru/2025/?utm_source=pc&amp;utm_medium=link&amp;utm_campaign=pml_25&amp;utm_content=petr_telegr\" rel=\"nofollow noopener noreferrer\">регистрируйтесь</a> на онлайн (в этом году для онлайна делаем дополнительный трек).<br><br>Обещаю интересные доклады, мастер-классы и дискуссии, крутую экспозону и качественный нетворк.<br><br>Репосты приветствуются.",
     "link": "https://t.me/powerofdata/245",
     "type": "photo",
-    "views": 1909,
+    "views": 1910,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -197,7 +197,7 @@
     "html": "Забрасывайте хорошие мемы в комменты 👇",
     "link": "https://t.me/powerofdata/244",
     "type": "photo",
-    "views": 1297,
+    "views": 1298,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -236,7 +236,7 @@
     "html": "<em>Я уже не знаю как эти новости объединять, ловите последнюю пачку дайджеста</em><br><br>- <strong>Google Stax </strong>-<strong> платформа для тестирования языковых моделей</strong>. <br>Google Labs запустила экспериментальный сервис Stax - инструмент для структурированного, автоматизированного оценивания LLM. Stax позволяет разработчикам задавать метрики и сценарии и получать количественные показатели качества модели вместо субъективного “ну вот это вроде збс”. В системе можно проверить ИИ-модель по ключевым параметрам: беглость и правильность ответов, их соответствие инструкциям, безопасность (наличие токсичного или нежелательного контента), скорость отклика, а также долю успешных решений в специально подобранных задачах. Доступны как встроенные авто-тесты (на базе LLM-as-a-Judge), так и полностью настраиваемые проверки - разработчик может загрузить свой набор промптов и эталонных ответов для сравнения. Stax призван заменить тестирование моделей на инженерный подход в стиле unit-тестов: каждый раз при изменении модели или промпта разработчик получает объективные метрики, лучше ли стал ИИ. Инструмент интегрирует наработки DeepMind по eval-бенчмаркам и идеи по визуализации результатов. Пока Stax в экспериментальном доступе. [<a href=\"https://developers.googleblog.com/en/streamline-llm-evaluation-with-stax/\" rel=\"nofollow noopener noreferrer\">developers.googleblog.com</a>]<br><br>- <strong>Anthropic Claude в Chrome </strong>-<strong> агент-ассистент в браузере. </strong><br>Компания Anthropic начала тестирование расширения Claude for Chrome, превращающего ИИ-модель Claude в браузерного ассистента. Выбранные пользователи получили возможность общаться с Claude прямо в сайдбаре Chrome и поручать ему действия на страницах. Агент имеет доступ к контексту открытых вкладок и, с разрешения, может кликать по кнопкам, заполнять формы, перемещаться по ссылкам - фактически выполнять роль помощника, облегчающего рутинные веб-задачи. Такой функционал схож с недавно появившимися AI-агентами в браузерах конкурентов: например, Perplexity выпустила свой браузер Comet с агентом, OpenAI, по слухам, разрабатывает аналогичное решение. Anthropic подчёркивает, что уделяет внимание безопасности: браузерные агенты уязвимы для атак через prompt injection на сайтах, поэтому Claude в Chrome снабжён механизмами фильтрации - в тестах им удалось снизить успех подобных атак примерно с 23,6% до 11,2% (все еще жесть). [<a href=\"https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/\" rel=\"nofollow noopener noreferrer\">techcrunch.com</a>]<br><br><strong>- VK-LSVD </strong>-<strong> датасет для рекомендаций на 40 млрд событий.</strong><br>Ребята из VK AI выложила в открытый доступ массив данных VK-LSVD (Large Short-Video Dataset) - большой публичный датасет взаимодействий пользователей с короткими видео. Он содержит 40 миллиардов обезличенных событий (лайки, дизлайки, шеры, время просмотра и т.д.) от 10 миллионов пользователей по 20 миллионам видеороликов за 6 месяцев 2025 года. Помимо самих интеракций, для каждого пользователя указаны социально-демографические характеристики (без персональных данных), а для каждого видео - атрибуты контента. Пожелаем удачи ребятам, открытые датасеты - это всегда круто. Но просто напомню, что 3 месяца назад появился датасет <a href=\"https://huggingface.co/datasets/yandex/yambda\" rel=\"nofollow noopener noreferrer\">Yambda</a>, а <a href=\"https://arxiv.org/abs/2505.22238\" rel=\"nofollow noopener noreferrer\">статью</a> о датасете приняли на ACM RecSys [<a href=\"https://huggingface.co/datasets/deepvk/VK-LSVD\" rel=\"nofollow noopener noreferrer\">hf vk-lsvd</a>]<br><br>- <strong>ИИ против болезни Альцгеймера</strong><br>Билл Гейтс объявил глобальный конкурс AI Solutions for Alzheimer’s, пообещав $1млн команде, которая предложит прорывной подход к исследованию болезни Альцгеймера с помощью ИИ. Инициатива запущена фондом AD Data Initiative при поддержке Gates Ventures и других партнёров. Для Гейтса это личная история - его отец скончался от деменции в 2020 году, и с тех пор он инвестирует в область. Заявки на участие принимаются от инженеров по машинному обучению, биоинформатиков, неврологов, стартапов – всех, кто может предложить нестандартные AI-подходы. Полуфиналистов объявят в декабре 2025, а финал пройдёт в марте 2026 года на профильной конференции AD/PD в Копенгагене. Победитель получит не только приз, но и поддержку в реализации решения - разработанные ИИ-инструменты планируется сделать доступными в открытой научной среде AD Data Initiative.  [<a href=\"https://observer.com/2025/08/bill-gates-launch-competition-ai-alzheimers/\" rel=\"nofollow noopener noreferrer\">observer.com</a>]<br><br><em>На этом дайджест недели все, регистрируйтесь</em> <em>и</em> <em>приходите к нам на </em><a href=\"http://pmlconf.yandex.ru/\" rel=\"nofollow noopener noreferrer\"><em>practical ml conf</em></a>",
     "link": "https://t.me/powerofdata/243",
     "type": "text",
-    "views": 1150,
+    "views": 1151,
     "forwards": 2,
     "grouped_id": null,
     "media": [],
@@ -266,7 +266,7 @@
     "html": "<strong>Маркировка <del>честный знак</del> ИИ-контента</strong><br><br>- <strong>DeepSeek помечает весь сгенерированный контент. </strong><br>DeepSeek ввела жёсткую политику маркировки результатов работы своих моделей ИИ. Теперь любое AI-сгенерированное содержание (текст, изображение, видео и пр.), созданное через их модели, обязательно снабжается признаками ИИ, и пользователям запрещено их убирать или менять. Разосланное уведомление разъясняет два типа меток: явные – заметные текстовые или аудиометки вроде &quot;Сгенерировано ИИ&quot;, а также скрытые технические маркеры. Под угрозой блокировок запрещено пытаться удалять или подделывать эти сигналы. DeepSeek также блокирует любые сторонние инструменты, помогающие снять метки. Нововведение связано как с внутренними стандартами прозрачности, так и с требованиями регуляторов Китая – летом власти обязали всех помечать ИИ-контент. [<a href=\"https://www.gizmochina.com/2025/09/01/deepseek-now-slaps-ai-labels-on-all-content/\" rel=\"nofollow noopener noreferrer\">gizmochina.com</a>]",
     "link": "https://t.me/powerofdata/242",
     "type": "text",
-    "views": 714,
+    "views": 715,
     "forwards": 4,
     "grouped_id": null,
     "media": [],
@@ -283,7 +283,7 @@
     "html": "<strong>AI для разработчиков и кода</strong><br><br>- <strong>xAI Grok Code Fast 1</strong><br>Стартап xAI (Илон Маск) выпустил модель Grok Code Fast 1, ориентированную на генерацию кода с упором на скорость. Это большая MoE-модель с 314 млрд параметров, поддерживающая контекст до ~262k токенов. Ключевая идея - агентное (агентское? ну вы поняли) кодирование: Grok не просто дополняет код, а самостоятельно выполняет многошаговые задачи, обдумывая решения. Внутреннее тестирование показало неплохую скорость: модель пишет код и находит баги гораздо быстрее конкурентов (за что получила кодовое имя Sonic). Однако разработчики предупреждают: для наилучшего результата запросы нужно формулировать конкретно - если дать расплывчатое ТЗ, Grok может упростить задачу и выдать тривиальное решение (впрочем, как и все ленивые программисты). Доступ: xAI сделала Grok Code Fast включён в платные тарифы Copilot (Pro, Business, Enterprise). Цены API: ~$0.20 за 1M входящих токенов и $1.50 за 1M исходящих. [<a href=\"https://www.timesofai.com/news/grok-code-fast-1-agentic-coding-model-launch/\" rel=\"nofollow noopener noreferrer\">timesofai.com</a>]",
     "link": "https://t.me/powerofdata/241",
     "type": "text",
-    "views": 705,
+    "views": 706,
     "forwards": 1,
     "grouped_id": null,
     "media": [],
@@ -3318,7 +3318,7 @@
     "html": "#events : ML-тренировка<br>Когда: 17 (четверг) ноября 2022, 19:00 - 21:30 (сбор с 18:00)<br>Место: офис Яндекса (Москва, улица Льва Толстого, 16) + онлайн<br>Язык - русский<br><br>В этот раз нас ждёт 3 доклада:<br>- призер только что завершившегося Yandex ML Cup,<br>- 2ое место хакатона AgroCode Hack по анализу спутниковых снимков для виноградников<br>- организатор ML соревнований в информационной безопасности<br><br>Подробная программа по ссылке ниже<br>Будем рады видеть всех очно и онлайн ;)<br><a href=\"https://events.yandex.ru/events/datadojo-17-11-2022/?from=permakov\" rel=\"nofollow noopener noreferrer\">Регистрация обязательна</a>",
     "link": "https://t.me/powerofdata/149",
     "type": "photo",
-    "views": 21664,
+    "views": 21665,
     "forwards": 70,
     "grouped_id": null,
     "media": [
@@ -3373,7 +3373,7 @@
     "html": "#opensource : RuLeanALBERT от Yandex Research<br>2.9B трансформер для русского, которая влезет в домашнюю ПеКарню ресерчера<br><br>Мало того, что это самая большая БЕРТ-подобная модель для русского языка, которая показывает крутые результаты в бенчмарках, так еще и с кодом для fine-tuning-а<br><br><a href=\"https://github.com/yandex-research/RuLeanALBERT\" rel=\"nofollow noopener noreferrer\">GitHub</a><br><br>А в <a href=\"https://habr.com/ru/company/yandex/blog/688234/\" rel=\"nofollow noopener noreferrer\">статье</a> можете узнать, как обучалась эта модель (а-ля коллаборативное глубокое обучение) на фреймворке по децентрализованному обучению <a href=\"https://github.com/learning-at-home/hivemind\" rel=\"nofollow noopener noreferrer\">Hivemind</a>",
     "link": "https://t.me/powerofdata/148",
     "type": "photo",
-    "views": 26388,
+    "views": 26389,
     "forwards": 178,
     "grouped_id": null,
     "media": [
