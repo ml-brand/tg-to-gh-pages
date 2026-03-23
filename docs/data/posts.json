@@ -2764,7 +2764,7 @@
     "html": "Смерть EDA Kernel-ов на Kaggle =&gt; <a href=\"https://github.com/Renumics/spotlight\" rel=\"nofollow noopener noreferrer\">spotlight</a><br><br>Ладно, юмор и кликбейт.<br>Но интересный наворот поверх пандаса для недавно прибывших в ml и аналитику на python.<br>Библиотека для интерактивного исследования структурированного и НЕСТРУКТУРИРОВАННОГО датафрейма<br><br><pre><br>    <code class=\"language-\"><br>        &gt; spotlight.show(df){}<br>    </code><br></pre>",
     "link": "https://t.me/powerofdata/176",
     "type": "video",
-    "views": 3154,
+    "views": 3155,
     "forwards": 63,
     "grouped_id": null,
     "media": [
@@ -2797,8 +2797,7 @@
           "emoji": "🎉"
         }
       ]
-    },
-    "media_status": "downloaded"
+    }
   },
   {
     "id": 177,
