@@ -4908,7 +4908,7 @@
     "html": "<strong>AI для голоса и аудио</strong><br><br>- <strong>Microsoft VibeVoice - генератор подкастов на 90 минут.</strong><br>Microsoft представила открытую TTS-модель VibeVoice для генерации длительных аудиозаписей. Она способна создавать до 1,5 часов речи с четырьмя разными голосами и позиционируется как инструмент для подкастов. Модель на 1,5 млрд параметров (7-миллиардная версия ожидается) и поддерживает английский и китайский языки. VibeVoice генерирует диалог нескольких спикеров. В каждой сгенерированной записи предусмотрены сигналы об использовании ИИ (аудиодисклеймер и скрытые водяные знаки) для предотвращения дезинформации. [<a href=\"https://www.pymnts.com/artificial-intelligence-2/2025/microsoft-unveils-vibevoice-for-longer-conversational-ai-audio/\" rel=\"nofollow noopener noreferrer\">pymnts.com</a>]<br><br>- <strong>OpenAI Realtime API и модель gpt-realtime.</strong><br>OpenAI вывела из беты Realtime API - универсальный голосовой интерфейс, объединяющий распознавание речи, генерацию текста и синтез голоса в одном API. Новая модель gpt-realtime обучена для голосовых ассистентов, контакт-центров и систем перевода: она распознаёт устную речь, генерирует ответ и сразу озвучивает его, минуя традиционную цепочку из отдельных сервисов. Благодаря цельному подходу к обработке аудио, задержки сокращены, а голосовые ответы звучат естественнее. Одновременно OpenAI снизила тарифы на аудиотокены примерно на 20% - теперь реальный голосовой API стоит ~$32 за 1 млн входных аудиотокенов и $64 за 1 млн выходных. [<a href=\"https://openai.com/index/introducing-gpt-realtime/\" rel=\"nofollow noopener noreferrer\">openai.com</a>]<br><br>- <strong>Собственные модели Microsoft: MAI-Voice-1 и MAI-1-preview.</strong><br>Подразделение Microsoft по ИИ выпустило первые модели собственной разработки. MAI-Voice-1 - ультрабыстрый генератор речи, способный сгенерировать минутный аудиофрагмент меньше чем за секунду на одном GPU. Эту модель уже используют, например, в Copilot Daily для автоматического озвучивания новостей. Вторая новинка - MAI-1-preview, языковая модель (тренировалась на ~15 000 GPU H100), которая дает представление о будущих возможностях Copilot. Microsoft планирует задействовать MAI-1-preview в текстовых задачах помощника Copilot (который пока опирается на модели OpenAI) и уже тестирует её. [<a href=\"https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai\" rel=\"nofollow noopener noreferrer\">theverge.com</a>]",
     "link": "https://t.me/powerofdata/238",
     "type": "text",
-    "views": 635,
+    "views": 636,
     "forwards": 3,
     "grouped_id": null,
     "media": [],
@@ -5115,7 +5115,7 @@
     "html": "Друзья, регистрация скоро закроется, честно.<br><br>27 сентября пройдет Practical ML Conf - лучшая конференция по ML в России. За качество отвечаю лично.<br><br><a href=\"https://pmlconf.yandex.ru/2025/?utm_source=pc&amp;utm_medium=link&amp;utm_campaign=pml_25&amp;utm_content=petr_telegr\" rel=\"nofollow noopener noreferrer\">Регистрируйтесь</a> на офлайн сейчас. А если не сможете быть в Москве, <a href=\"https://pmlconf.yandex.ru/2025/?utm_source=pc&amp;utm_medium=link&amp;utm_campaign=pml_25&amp;utm_content=petr_telegr\" rel=\"nofollow noopener noreferrer\">регистрируйтесь</a> на онлайн (в этом году для онлайна делаем дополнительный трек).<br><br>Обещаю интересные доклады, мастер-классы и дискуссии, крутую экспозону и качественный нетворк.<br><br>Репосты приветствуются.",
     "link": "https://t.me/powerofdata/245",
     "type": "photo",
-    "views": 1927,
+    "views": 1928,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -5154,7 +5154,7 @@
     "html": "Скоро новогодние корпоративы, главное чтоб этим роботом не были вы",
     "link": "https://t.me/powerofdata/246",
     "type": "video",
-    "views": 1109,
+    "views": 1110,
     "forwards": 20,
     "grouped_id": null,
     "media": [
@@ -5189,7 +5189,7 @@
     "html": "<a href=\"https://news.lmarena.ai/code-arena/\" rel=\"nofollow noopener noreferrer\">https://news.lmarena.ai/code-arena/</a>",
     "link": "https://t.me/powerofdata/247",
     "type": "photo",
-    "views": 1063,
+    "views": 1064,
     "forwards": 3,
     "grouped_id": null,
     "media": [
@@ -5220,7 +5220,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/248",
     "type": "image",
-    "views": 957,
+    "views": 958,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5243,7 +5243,7 @@
     "html": "<a href=\"https://openai.com/index/gpt-5-1/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/gpt-5-1/</a>",
     "link": "https://t.me/powerofdata/249",
     "type": "photo",
-    "views": 1116,
+    "views": 1117,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5266,7 +5266,7 @@
     "html": "ML-инженер не обязан лететь на NeurIPS. Но может, если хочет. Я выберу того, кто хочет.<br><br>🎯 Забегай к нам на ML Global Recap 11 декабря, обсудим:<br>➖ NeurlPS<br>➖ CIKM и RecSys и тренды в рекомендательных технологиях<br>➖ ICLR и тренды в компьютерном зрении <br>➖ ICLR и ACL и тренды в NLP<br>➖ Interspeech и тренды в технологиях распознавания речи<br><br>Со всех конф 2025 года везли вам самые интересные папиры<br>О них и куча нетворка: 11 декабря | 18:00 | Москва и онлайн<br>🔗 Подробная программа и регистрация по <a href=\"https://events.yandex.ru/events/ml-global-recap/11-dec-2025?utm_source=tg&amp;utm_medium=owned_media&amp;utm_campaign=recap2025_10_promo&amp;utm_content=ods\" rel=\"nofollow noopener noreferrer\">ссылке</a>.",
     "link": "https://t.me/powerofdata/250",
     "type": "photo",
-    "views": 1004,
+    "views": 1005,
     "forwards": 9,
     "grouped_id": null,
     "media": [
