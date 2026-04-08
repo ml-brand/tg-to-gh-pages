@@ -5240,7 +5240,7 @@
     "html": "<a href=\"https://openai.com/index/gpt-5-1/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/gpt-5-1/</a>",
     "link": "https://t.me/powerofdata/249",
     "type": "photo",
-    "views": 1300,
+    "views": 1301,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5263,7 +5263,7 @@
     "html": "ML-инженер не обязан лететь на NeurIPS. Но может, если хочет. Я выберу того, кто хочет.<br><br>🎯 Забегай к нам на ML Global Recap 11 декабря, обсудим:<br>➖ NeurlPS<br>➖ CIKM и RecSys и тренды в рекомендательных технологиях<br>➖ ICLR и тренды в компьютерном зрении <br>➖ ICLR и ACL и тренды в NLP<br>➖ Interspeech и тренды в технологиях распознавания речи<br><br>Со всех конф 2025 года везли вам самые интересные папиры<br>О них и куча нетворка: 11 декабря | 18:00 | Москва и онлайн<br>🔗 Подробная программа и регистрация по <a href=\"https://events.yandex.ru/events/ml-global-recap/11-dec-2025?utm_source=tg&amp;utm_medium=owned_media&amp;utm_campaign=recap2025_10_promo&amp;utm_content=ods\" rel=\"nofollow noopener noreferrer\">ссылке</a>.",
     "link": "https://t.me/powerofdata/250",
     "type": "photo",
-    "views": 1300,
+    "views": 1301,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -5302,7 +5302,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 377,
+    "views": 378,
     "forwards": 5,
     "grouped_id": null,
     "media": [],
