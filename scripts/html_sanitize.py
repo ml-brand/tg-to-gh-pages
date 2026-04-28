@@ -2,10 +2,35 @@ from __future__ import annotations
 
 from html import escape
 from html.parser import HTMLParser
-from typing import List, Optional, Set
+from typing import Dict, List, Optional, Set
 from urllib.parse import urlparse
 
 SAFE_SCHEMES: Set[str] = {"http", "https", "mailto", "tg", "tel"}
+
+# Tags Telethon's html.unparse() can emit, plus <br> we add ourselves in
+# message_to_post_dict(). Anything else is dropped (its text content is kept).
+ALLOWED_TAGS: Set[str] = {
+    "a",
+    "b",
+    "blockquote",
+    "br",
+    "code",
+    "del",
+    "em",
+    "i",
+    "pre",
+    "s",
+    "strike",
+    "strong",
+    "tg-emoji",
+    "tg-spoiler",
+    "u",
+}
+
+ALLOWED_ATTRS: Dict[str, Set[str]] = {
+    "a": {"href", "rel"},
+    "tg-emoji": {"emoji-id"},
+}
 
 
 def _is_safe_href(href: Optional[str]) -> bool:
@@ -43,9 +68,14 @@ def sanitize_links(html_text: str) -> str:
         def _build_tag(
             self, tag: str, attrs: list[tuple[str, Optional[str]]], self_closing: bool
         ) -> str:
-            attrs_out = attrs
-            if tag.lower() == "a":
-                attrs_dict = {k: v for k, v in attrs}
+            tag_lower = tag.lower()
+            if tag_lower not in ALLOWED_TAGS:
+                return ""
+
+            permitted = ALLOWED_ATTRS.get(tag_lower, set())
+            attrs_dict = {k: v for k, v in attrs if k.lower() in permitted}
+
+            if tag_lower == "a":
                 href = attrs_dict.get("href")
                 if not _is_safe_href(href):
                     attrs_dict.pop("href", None)
@@ -57,10 +87,9 @@ def sanitize_links(html_text: str) -> str:
                 }
                 rel_set.update({"noopener", "noreferrer", "nofollow"})
                 attrs_dict["rel"] = " ".join(sorted(rel_set))
-                attrs_out = list(attrs_dict.items())
 
             buf = [f"<{tag}"]
-            for k, v in attrs_out:
+            for k, v in attrs_dict.items():
                 if v is None:
                     buf.append(f" {k}")
                 else:
@@ -69,7 +98,8 @@ def sanitize_links(html_text: str) -> str:
             return "".join(buf)
 
         def handle_endtag(self, tag: str) -> None:
-            self.out.append(f"</{tag}>")
+            if tag.lower() in ALLOWED_TAGS:
+                self.out.append(f"</{tag}>")
 
         def handle_data(self, data: str) -> None:
             self.out.append(data)

@@ -44,6 +44,12 @@ def parse_cli_args() -> argparse.Namespace:
         help="Generate sitemap/robots (default: GENERATE_SITE_FILES env, fallback: false).",
     )
     parser.add_argument(
+        "--generate-feeds",
+        dest="generate_feeds",
+        action=argparse.BooleanOptionalAction,
+        help="Generate RSS/Atom feeds (default: GENERATE_FEEDS env, fallback: false).",
+    )
+    parser.add_argument(
         "--download-media",
         dest="download_media",
         action=argparse.BooleanOptionalAction,

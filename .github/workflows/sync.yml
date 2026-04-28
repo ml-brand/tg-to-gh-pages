@@ -73,7 +73,7 @@ jobs:
         if: ${{ success() }}
         run: |
           changed=false
-          if git status --porcelain docs/data docs/assets/media docs/assets/channel_avatar.jpg docs/favicon.ico docs/favicon-32.png docs/apple-touch-icon.png docs/metrika.js | grep -q .; then
+          if git status --porcelain docs/data docs/assets docs/static docs/metrika.js docs/favicon.ico docs/favicon-32.png docs/apple-touch-icon.png docs/feed.xml docs/atom.xml docs/sitemap.xml docs/robots.txt | grep -q .; then
             changed=true
           fi
           echo "changed=$changed" >> "$GITHUB_OUTPUT"

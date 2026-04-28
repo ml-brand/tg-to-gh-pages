@@ -73,5 +73,7 @@ def apply_cli_overrides(sync: SyncConfig, args: argparse.Namespace) -> SyncConfi
         generate_site_files=sync.generate_site_files
         if args.generate_site_files is None
         else args.generate_site_files,
-        generate_feeds=sync.generate_feeds,
+        generate_feeds=sync.generate_feeds
+        if getattr(args, "generate_feeds", None) is None
+        else args.generate_feeds,
     )

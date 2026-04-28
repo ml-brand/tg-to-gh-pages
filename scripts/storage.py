@@ -41,6 +41,7 @@ def _write_if_changed(path: Path, data: str) -> bool:
     except Exception:
         # If we cannot read, fall back to writing.
         pass
+    tmp_path.unlink(missing_ok=True)
     tmp_path.write_bytes(new_bytes)
     tmp_path.replace(path)
     return True

@@ -28,3 +28,5 @@ build/
 dist/
 
 scripts/__pycache__/
+
+*.tmp

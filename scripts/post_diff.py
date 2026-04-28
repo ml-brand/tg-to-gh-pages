@@ -14,6 +14,7 @@ WATCHED_FIELDS: List[str] = [
     "reactions",
     "forwards",
     "type",
+    "media",
 ]
 
 
