@@ -284,8 +284,7 @@
         "name": "tg_tqdm_small.mp4"
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 37,
@@ -350,8 +349,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 42,
@@ -388,8 +386,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 44,
@@ -426,8 +423,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 47,
@@ -604,8 +600,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 60,
@@ -642,8 +637,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 62,
@@ -736,8 +730,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 72,
@@ -928,8 +921,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 85,
@@ -1198,8 +1190,7 @@
         "name": "_______Data_Science__RDSP__1_.mp3"
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 108,
@@ -1343,8 +1334,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 118,
@@ -1367,8 +1357,7 @@
         "name": "DataFest__________________________CatBoost_____________________________.ics"
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 119,
@@ -1391,8 +1380,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 120,
@@ -1503,8 +1491,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 126,
@@ -1534,7 +1521,7 @@
     "date": "2021-06-17T10:00:17+00:00",
     "edited": "2021-06-17T10:04:11+00:00",
     "text": "api-ка\nimport requests\nimport json\n\nheaders = {\n    'Accept': '*/*',\n    'Content-Type': 'application/json',\n    'Origin': 'https://yandex.ru',\n    'Content-Length': '45',\n    'Accept-Language': 'ru',\n    'Host': 'zeapi.yandex.net',\n    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15',\n    'Referer': 'https://yandex.ru/',\n    'Accept-Encoding': 'gzip, deflate, br',\n    'Connection': 'keep-alive',\n}\n\ndata = json.dumps({\"query\":\"Заходит \",\"intro\":0,\"filter\":1})\n\nresponse = requests.post('https://zeapi.yandex.net/lab/api/yalm/text3',\n                         headers=headers,\n                         data=data)",
-    "html": "api-ка<br><pre><br>    <code class=\"language-\"><br>        import requests<br>import json<br><br>headers = {<br>    &#x27;Accept&#x27;: &#x27;*/*&#x27;,<br>    &#x27;Content-Type&#x27;: &#x27;application/json&#x27;,<br>    &#x27;Origin&#x27;: &#x27;https://yandex.ru&#x27;,<br>    &#x27;Content-Length&#x27;: &#x27;45&#x27;,<br>    &#x27;Accept-Language&#x27;: &#x27;ru&#x27;,<br>    &#x27;Host&#x27;: &#x27;zeapi.yandex.net&#x27;,<br>    &#x27;User-Agent&#x27;: &#x27;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15&#x27;,<br>    &#x27;Referer&#x27;: &#x27;https://yandex.ru/&#x27;,<br>    &#x27;Accept-Encoding&#x27;: &#x27;gzip, deflate, br&#x27;,<br>    &#x27;Connection&#x27;: &#x27;keep-alive&#x27;,<br>}<br><br>data = json.dumps({&quot;query&quot;:&quot;Заходит &quot;,&quot;intro&quot;:0,&quot;filter&quot;:1})<br><br>response = requests.post(&#x27;https://zeapi.yandex.net/lab/api/yalm/text3&#x27;,<br>                         headers=headers,<br>                         data=data){}<br>    </code><br></pre>",
+    "html": "api-ка<br><pre><br>    <code><br>        import requests<br>import json<br><br>headers = {<br>    &#x27;Accept&#x27;: &#x27;*/*&#x27;,<br>    &#x27;Content-Type&#x27;: &#x27;application/json&#x27;,<br>    &#x27;Origin&#x27;: &#x27;https://yandex.ru&#x27;,<br>    &#x27;Content-Length&#x27;: &#x27;45&#x27;,<br>    &#x27;Accept-Language&#x27;: &#x27;ru&#x27;,<br>    &#x27;Host&#x27;: &#x27;zeapi.yandex.net&#x27;,<br>    &#x27;User-Agent&#x27;: &#x27;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15&#x27;,<br>    &#x27;Referer&#x27;: &#x27;https://yandex.ru/&#x27;,<br>    &#x27;Accept-Encoding&#x27;: &#x27;gzip, deflate, br&#x27;,<br>    &#x27;Connection&#x27;: &#x27;keep-alive&#x27;,<br>}<br><br>data = json.dumps({&quot;query&quot;:&quot;Заходит &quot;,&quot;intro&quot;:0,&quot;filter&quot;:1})<br><br>response = requests.post(&#x27;https://zeapi.yandex.net/lab/api/yalm/text3&#x27;,<br>                         headers=headers,<br>                         data=data){}<br>    </code><br></pre>",
     "link": "https://t.me/powerofdata/127",
     "type": "photo",
     "views": 2668,
@@ -1632,8 +1619,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 134,
@@ -1716,8 +1702,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 139,
@@ -1740,8 +1725,7 @@
         "name": null
       }
     ],
-    "reactions": null,
-    "media_status": "downloaded"
+    "reactions": null
   },
   {
     "id": 140,
@@ -2055,8 +2039,7 @@
           "emoji": "👍"
         }
       ]
-    },
-    "media_status": "downloaded"
+    }
   },
   {
     "id": 155,
@@ -2315,8 +2298,7 @@
           "emoji": "🥴"
         }
       ]
-    },
-    "media_status": "downloaded"
+    }
   },
   {
     "id": 162,
@@ -2411,7 +2393,7 @@
     "date": "2023-04-04T09:18:34+00:00",
     "edited": "2023-04-04T09:36:30+00:00",
     "text": "Вышел kandinsky 2.1\nПочитать можно тут\n\nА это код, который дергает публичную API (пока работает)\nМожете погенерировать картинки на любом тапке с установленным питоном\n\nUPD: Но ожидания в очереди жесть)\n\nimport PIL\nimport base64\nimport io\nimport requests\nimport time\n\ntext = \"комикс игра престолов\"\n\nwtf = '----WebKitFormBoundarywlnxcaZpV1ghiA4E'\ncdfdn = '\\r\\nContent-Disposition: form-data; name='\napi_url = 'https://fusionbrain.ai/api/v1/text2image'\napi_url_run = api_url + '/run'\napi_url_pockets = api_url + '/generate/pockets/'\n\ndata = (f'--{wtf}{cdfdn}\"queueType\"\\r\\n\\r\\ngenerate\\r\\n--{wtf}' +\n               f'{cdfdn}\"query\"\\r\\n\\r\\n{text}\\r\\n--{wtf}' +\n               f'{cdfdn}\"preset\"\\r\\n\\r\\n1\\r\\n--{wtf}' +\n               f'{cdfdn}\"style\"\\r\\n\\r\\n\\r\\n--{wtf}--\\r\\n').encode()\n\nresponse = requests.post(api_url_run, headers={'Content-Type': f'multipart/form-data; boundary={wtf}'}, data=data)\npocket = response.json()['result']['pocketId']\ntime.sleep(3)\nresponse = requests.get(api_url_pockets + f\"{pocket}/status\",\n    headers={'Content-Type': f'multipart/form-data; boundary={wtf}'},\n)\n\nwhile response.json()['result'] != 'SUCCESS':\n    print(response.json()['result'])\n    time.sleep(3)\n    response = requests.get(api_url_pockets + f\"{pocket}/status\")\n\nresponse = requests.get(api_url_pockets + f\"{pocket}/entities\")\n\nmsg = base64.b64decode(response.json()['result'][0]['response'][0])\nbuf = io.BytesIO(msg)\nimg = PIL.Image.open(buf)\n\nimg\n\n@powerofdata",
-    "html": "Вышел kandinsky 2.1<br>Почитать можно <a href=\"https://t.me/complete_ai/108\" rel=\"nofollow noopener noreferrer\">тут</a><br><br>А это код, который дергает публичную API (пока работает)<br>Можете погенерировать картинки на любом тапке с установленным питоном<br><br>UPD: Но ожидания в очереди жесть)<br><pre><br>    <code class=\"language-\"><br>        <br>import PIL<br>import base64<br>import io<br>import requests<br>import time<br><br>text = &quot;комикс игра престолов&quot;<br><br>wtf = &#x27;----WebKitFormBoundarywlnxcaZpV1ghiA4E&#x27;<br>cdfdn = &#x27;\\r\\nContent-Disposition: form-data; name=&#x27;<br>api_url = &#x27;https://fusionbrain.ai/api/v1/text2image&#x27;<br>api_url_run = api_url + &#x27;/run&#x27;<br>api_url_pockets = api_url + &#x27;/generate/pockets/&#x27;<br><br>data = (f&#x27;--{wtf}{cdfdn}&quot;queueType&quot;\\r\\n\\r\\ngenerate\\r\\n--{wtf}&#x27; +<br>               f&#x27;{cdfdn}&quot;query&quot;\\r\\n\\r\\n{text}\\r\\n--{wtf}&#x27; +<br>               f&#x27;{cdfdn}&quot;preset&quot;\\r\\n\\r\\n1\\r\\n--{wtf}&#x27; +<br>               f&#x27;{cdfdn}&quot;style&quot;\\r\\n\\r\\n\\r\\n--{wtf}--\\r\\n&#x27;).encode()<br><br>response = requests.post(api_url_run, headers={&#x27;Content-Type&#x27;: f&#x27;multipart/form-data; boundary={wtf}&#x27;}, data=data)<br>pocket = response.json()[&#x27;result&#x27;][&#x27;pocketId&#x27;]<br>time.sleep(3)<br>response = requests.get(api_url_pockets + f&quot;{pocket}/status&quot;,<br>    headers={&#x27;Content-Type&#x27;: f&#x27;multipart/form-data; boundary={wtf}&#x27;},<br>)<br><br>while response.json()[&#x27;result&#x27;] != &#x27;SUCCESS&#x27;:<br>    print(response.json()[&#x27;result&#x27;])<br>    time.sleep(3)<br>    response = requests.get(api_url_pockets + f&quot;{pocket}/status&quot;)<br><br>response = requests.get(api_url_pockets + f&quot;{pocket}/entities&quot;)<br><br>msg = base64.b64decode(response.json()[&#x27;result&#x27;][0][&#x27;response&#x27;][0])<br>buf = io.BytesIO(msg)<br>img = PIL.Image.open(buf)<br><br>img{}<br>    </code><br></pre><br><br>@powerofdata",
+    "html": "Вышел kandinsky 2.1<br>Почитать можно <a href=\"https://t.me/complete_ai/108\" rel=\"nofollow noopener noreferrer\">тут</a><br><br>А это код, который дергает публичную API (пока работает)<br>Можете погенерировать картинки на любом тапке с установленным питоном<br><br>UPD: Но ожидания в очереди жесть)<br><pre><br>    <code><br>        <br>import PIL<br>import base64<br>import io<br>import requests<br>import time<br><br>text = &quot;комикс игра престолов&quot;<br><br>wtf = &#x27;----WebKitFormBoundarywlnxcaZpV1ghiA4E&#x27;<br>cdfdn = &#x27;\\r\\nContent-Disposition: form-data; name=&#x27;<br>api_url = &#x27;https://fusionbrain.ai/api/v1/text2image&#x27;<br>api_url_run = api_url + &#x27;/run&#x27;<br>api_url_pockets = api_url + &#x27;/generate/pockets/&#x27;<br><br>data = (f&#x27;--{wtf}{cdfdn}&quot;queueType&quot;\\r\\n\\r\\ngenerate\\r\\n--{wtf}&#x27; +<br>               f&#x27;{cdfdn}&quot;query&quot;\\r\\n\\r\\n{text}\\r\\n--{wtf}&#x27; +<br>               f&#x27;{cdfdn}&quot;preset&quot;\\r\\n\\r\\n1\\r\\n--{wtf}&#x27; +<br>               f&#x27;{cdfdn}&quot;style&quot;\\r\\n\\r\\n\\r\\n--{wtf}--\\r\\n&#x27;).encode()<br><br>response = requests.post(api_url_run, headers={&#x27;Content-Type&#x27;: f&#x27;multipart/form-data; boundary={wtf}&#x27;}, data=data)<br>pocket = response.json()[&#x27;result&#x27;][&#x27;pocketId&#x27;]<br>time.sleep(3)<br>response = requests.get(api_url_pockets + f&quot;{pocket}/status&quot;,<br>    headers={&#x27;Content-Type&#x27;: f&#x27;multipart/form-data; boundary={wtf}&#x27;},<br>)<br><br>while response.json()[&#x27;result&#x27;] != &#x27;SUCCESS&#x27;:<br>    print(response.json()[&#x27;result&#x27;])<br>    time.sleep(3)<br>    response = requests.get(api_url_pockets + f&quot;{pocket}/status&quot;)<br><br>response = requests.get(api_url_pockets + f&quot;{pocket}/entities&quot;)<br><br>msg = base64.b64decode(response.json()[&#x27;result&#x27;][0][&#x27;response&#x27;][0])<br>buf = io.BytesIO(msg)<br>img = PIL.Image.open(buf)<br><br>img{}<br>    </code><br></pre><br><br>@powerofdata",
     "link": "https://t.me/powerofdata/165",
     "type": "text",
     "views": 3715,
@@ -2512,8 +2494,7 @@
           "emoji": "😱"
         }
       ]
-    },
-    "media_status": "downloaded"
+    }
   },
   {
     "id": 169,
@@ -2749,15 +2730,14 @@
           "emoji": "❤"
         }
       ]
-    },
-    "media_status": "downloaded"
+    }
   },
   {
     "id": 176,
     "date": "2023-10-11T12:23:28+00:00",
     "edited": "2023-10-11T12:25:12+00:00",
     "text": "Смерть EDA Kernel-ов на Kaggle => spotlight\n\nЛадно, юмор и кликбейт.\nНо интересный наворот поверх пандаса для недавно прибывших в ml и аналитику на python.\nБиблиотека для интерактивного исследования структурированного и НЕСТРУКТУРИРОВАННОГО датафрейма\n\n> spotlight.show(df)",
-    "html": "Смерть EDA Kernel-ов на Kaggle =&gt; <a href=\"https://github.com/Renumics/spotlight\" rel=\"nofollow noopener noreferrer\">spotlight</a><br><br>Ладно, юмор и кликбейт.<br>Но интересный наворот поверх пандаса для недавно прибывших в ml и аналитику на python.<br>Библиотека для интерактивного исследования структурированного и НЕСТРУКТУРИРОВАННОГО датафрейма<br><br><pre><br>    <code class=\"language-\"><br>        &gt; spotlight.show(df){}<br>    </code><br></pre>",
+    "html": "Смерть EDA Kernel-ов на Kaggle =&gt; <a href=\"https://github.com/Renumics/spotlight\" rel=\"nofollow noopener noreferrer\">spotlight</a><br><br>Ладно, юмор и кликбейт.<br>Но интересный наворот поверх пандаса для недавно прибывших в ml и аналитику на python.<br>Библиотека для интерактивного исследования структурированного и НЕСТРУКТУРИРОВАННОГО датафрейма<br><br><pre><br>    <code><br>        &gt; spotlight.show(df){}<br>    </code><br></pre>",
     "link": "https://t.me/powerofdata/176",
     "type": "video",
     "views": 3155,
@@ -5299,7 +5279,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 694,
+    "views": 695,
     "forwards": 6,
     "grouped_id": null,
     "media": [],
@@ -5333,7 +5313,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 347,
+    "views": 348,
     "forwards": 5,
     "grouped_id": null,
     "media": [
