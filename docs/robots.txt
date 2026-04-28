@@ -1,0 +1,3 @@
+# Robots file is auto-generated; set SEO=true to allow crawling.
+User-agent: *
+Disallow: /

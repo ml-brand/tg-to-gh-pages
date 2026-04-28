@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Moscow
+X-LIC-LOCATION:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20210602T122034Z
+UID:20210602T122034Z-1636637743@marudot.com
+DTSTART;TZID=Europe/Moscow:20210603T190000
+DTEND;TZID=Europe/Moscow:20210603T213000
+SUMMARY:DataFest воркшоп "Как запихнуть в CatBoost терабайты данных\, используя Apache Spark"
+DESCRIPTION:3 июня в 19:00 приглашаем вас посмотреть воркшоп по использованию CatBoost на Apache Spark\, который мы проведём в рамках DataFest'а. \n\nСразу после воркшопа команда CatBoost ответит на все вопросы по использованию\, деталям реализации и дальнейшему развитию CatBoost для Apache Spark и не только.\n\n\n⚡️ Инструкция для входа в спешлчат/регистрации:\n\nСайт феста: https://fest.ai/\n\nSpatial Chat: https://live.ods.ai/\n\nПароль от Spatial Chat: thisweektransformersortreat\n\nГид по Spatial Chat: https://ods.ai/events/datafest2021/faq\n\n\n\nРегистрация:\n\n1. Заходите на https://fest.ai/\n\n2. Нажимаете кнопку «Регистрация»\n\n3. Авторизуетесь через GitHab\, Google или Slack\n\n4. Нажимаете «Go to event»\n\nВсе готово!\n\n\n\nГде находится комната в Spatial Chat:\n\n1. Заходите на https://live.ods.ai/\n\n2. Заполняете «Name» и «About» (! пожалуйста\, заполняйте реальные имена\, а не ники\; во втором поле можно написать из какой вы команды или каким направлением занимаетесь\, указывайте\, что в из Яндекса)\n\n3. Разрешаете использование вашей камеры и микрофона (если случайно нажали не туда на этой же странице есть кнопка «Need Help?»\, где написано как вернуться обратно)\n\n4. Вводите пароль: thisweektransformersortreat
+LOCATION:https://live.ods.ai/
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DataFest воркшоп "Как запихнуть в CatBoost терабайты данных, используя Apache Spark"
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
