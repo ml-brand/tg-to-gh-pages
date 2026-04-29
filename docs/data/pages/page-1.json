@@ -7,7 +7,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 375,
+    "views": 376,
     "forwards": 5,
     "grouped_id": null,
     "media": [
@@ -50,7 +50,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 715,
+    "views": 716,
     "forwards": 6,
     "grouped_id": null,
     "media": [],
@@ -84,7 +84,7 @@
     "html": "ML-инженер не обязан лететь на NeurIPS. Но может, если хочет. Я выберу того, кто хочет.<br><br>🎯 Забегай к нам на ML Global Recap 11 декабря, обсудим:<br>➖ NeurlPS<br>➖ CIKM и RecSys и тренды в рекомендательных технологиях<br>➖ ICLR и тренды в компьютерном зрении <br>➖ ICLR и ACL и тренды в NLP<br>➖ Interspeech и тренды в технологиях распознавания речи<br><br>Со всех конф 2025 года везли вам самые интересные папиры<br>О них и куча нетворка: 11 декабря | 18:00 | Москва и онлайн<br>🔗 Подробная программа и регистрация по <a href=\"https://events.yandex.ru/events/ml-global-recap/11-dec-2025?utm_source=tg&amp;utm_medium=owned_media&amp;utm_campaign=recap2025_10_promo&amp;utm_content=ods\" rel=\"nofollow noopener noreferrer\">ссылке</a>.",
     "link": "https://t.me/powerofdata/250",
     "type": "photo",
-    "views": 1490,
+    "views": 1491,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -123,7 +123,7 @@
     "html": "<a href=\"https://openai.com/index/gpt-5-1/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/gpt-5-1/</a>",
     "link": "https://t.me/powerofdata/249",
     "type": "photo",
-    "views": 1414,
+    "views": 1415,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -146,7 +146,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/248",
     "type": "image",
-    "views": 1177,
+    "views": 1178,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -169,7 +169,7 @@
     "html": "<a href=\"https://news.lmarena.ai/code-arena/\" rel=\"nofollow noopener noreferrer\">https://news.lmarena.ai/code-arena/</a>",
     "link": "https://t.me/powerofdata/247",
     "type": "photo",
-    "views": 1247,
+    "views": 1249,
     "forwards": 3,
     "grouped_id": null,
     "media": [
@@ -412,7 +412,7 @@
     "html": "<strong>AI для изображений и компьютерного зрения</strong><br><br>- <strong>Google Gemini 2.5 Flash Image (nano-banana)</strong>. <br>Google DeepMind официально запустила новую модель Gemini 2.5 Flash Image, известную по тестам под кодовым именем nano-banana. Это генератор и редактор изображений, который возглавил сразу 6 категорий на площадке LMArena:  общей оценке качества редактирования изображений, обойдя даже GPT-4.1 Image и Qwen Image Edit - уступил им лишь в стилизации. Особый акцент сделан на стабильности персонажей и стиле: nano-banana сохраняет облик и позу объектов при многократных редактированиях сцены, решая проблему, когда другие модели «переиначивали» персонажей при каждом новом кадре. Это открывает возможности создавать серии визуалов с одинаковыми героями и дизайном. Модель уже доступна разработчикам в AI Studio, Vertex AI и через API Gemini. [<a href=\"https://masterconcept.ai/blog/is-there-a-new-king-of-ai-image-generation-gemini-2-5-flash-image-is-here/\" rel=\"nofollow noopener noreferrer\">masterconcept.ai</a>] [<a href=\"https://habr.com/ru/news/940968/\" rel=\"nofollow noopener noreferrer\">habr.com</a>] [<a href=\"https://blog.getbind.co/2025/08/28/gemini-2-5-flash-image-nano-banana-is-amazing-heres-how-to-use-it/\" rel=\"nofollow noopener noreferrer\">blog.getbind.co</a>]<br><br>- <strong>Apple FastVLM </strong>-<strong> ультрабыстрые vision-language модели</strong>. <br>Apple анонсировала новую линейку FastVLM - мультимодальные модели с гибридным визуальным энкодером FastViTHD для ускоренной обработки изображений. Ключевая инновация - уменьшение числа визуальных токенов без потери качества: FastVLM выделяет в 4 раза меньше токенов из картинки благодаря дополнительному этапу downsampling в энкодере. В результате, по сравнению с LLaVA-1.5, достигается ускорение Time-To-First-Token в ~3,2 раза при сопоставимом уровне точности. FastVLM показал превосходство на ряде бенчмарков (TextVQA, DocVQA) и обходит конкурентные open-source модели (ConvLLaVA, Cambrian-1) по сочетанию разрешения, скорости и качества. Модели FastVLM доступны на Hugging Face и обучены на единичном узле (8×H100) всего за ~30 минут базовой стадии. В перспективе технология FastViTHD может лечь в основу ускоренных мультимодальных сервисов Apple. [<a href=\"https://www.marktechpost.com/2025/09/02/apple-researchers-introduce-fastvlm-achieving-state-of-the-art-resolution-latency-accuracy-trade-off-in-vision-language-models/\" rel=\"nofollow noopener noreferrer\">marktechpost.com</a>]",
     "link": "https://t.me/powerofdata/239",
     "type": "photo",
-    "views": 641,
+    "views": 642,
     "forwards": 4,
     "grouped_id": null,
     "media": [
@@ -4688,7 +4688,7 @@
     "html": "#events : DataFest #6 🎉 🦜<br>Когда: 10 (пятница) - 11 (суббота) мая 2019<br>Место: FLACON, ул. Большая Новодмитровская, 36, Москва<br>Язык докладов - русский, английский<br><br>В мае пройдет главное data science мероприятие года.<br>2 полных дня, 60 секций, 200 докладов, 10.000 гостей.<br> - Список секций первого (индустриального) дня:<br>Mega keynote, ML economics, Healthcare applications, E-commerce applications, Media applications, DS education, Poster pitch-session, Innovation board panel, A/B testing, Manufacturing applications, Banking applications, Telecom applications, Data collection &amp; labeling, ODS Q&amp;A, Data-driven culture, DS processes, Biometric Applications, Smartphone applications, WiML, Project pitch-session, Mini meeetups, Mythbusters, DS hiring, Industry CV/Video, Industry NLP, Industry speech, WiML workshop, Mini meetups, MLcourse finale<br> - Список секций второго (научного) дня:<br>Machine learning legends panel, Big Data / Data Engineering, ML trainings, PyData, Reinforcement Learning, ML4SG, Open microphone, ML keynotes, ML Engineering / SysML, Black ML, iPavlov workshop, DeepBayes workshop, EDA &amp; visualisation, Fit ML, Что? Где? Когда? DS edition, BigARTM workshop, Deep CV workshop, ODS projects, Unconference, ML puzzler, Failconf, Sigbovik, Reproducible ML, Unsolved ML, ODS coaching, ODS concert, Random beer<br> - А также картинная галерея графиков/визуализаций и многое другое<br><br>Регистрация уже открыта.<br>Страница мероприятия: <a href=\"http://xxtt.ru/datafest6\" rel=\"nofollow noopener noreferrer\">http://xxtt.ru/datafest6</a>",
     "link": "https://t.me/powerofdata/63",
     "type": "text",
-    "views": 3113,
+    "views": 3114,
     "forwards": 36,
     "grouped_id": null,
     "media": [],
