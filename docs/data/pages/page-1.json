@@ -7,7 +7,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 490,
+    "views": 491,
     "forwards": 5,
     "grouped_id": null,
     "media": [
@@ -50,7 +50,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 744,
+    "views": 745,
     "forwards": 7,
     "grouped_id": null,
     "media": [],
@@ -84,7 +84,7 @@
     "html": "ML-инженер не обязан лететь на NeurIPS. Но может, если хочет. Я выберу того, кто хочет.<br><br>🎯 Забегай к нам на ML Global Recap 11 декабря, обсудим:<br>➖ NeurlPS<br>➖ CIKM и RecSys и тренды в рекомендательных технологиях<br>➖ ICLR и тренды в компьютерном зрении <br>➖ ICLR и ACL и тренды в NLP<br>➖ Interspeech и тренды в технологиях распознавания речи<br><br>Со всех конф 2025 года везли вам самые интересные папиры<br>О них и куча нетворка: 11 декабря | 18:00 | Москва и онлайн<br>🔗 Подробная программа и регистрация по <a href=\"https://events.yandex.ru/events/ml-global-recap/11-dec-2025?utm_source=tg&amp;utm_medium=owned_media&amp;utm_campaign=recap2025_10_promo&amp;utm_content=ods\" rel=\"nofollow noopener noreferrer\">ссылке</a>.",
     "link": "https://t.me/powerofdata/250",
     "type": "photo",
-    "views": 1505,
+    "views": 1506,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -123,7 +123,7 @@
     "html": "<a href=\"https://openai.com/index/gpt-5-1/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/gpt-5-1/</a>",
     "link": "https://t.me/powerofdata/249",
     "type": "photo",
-    "views": 1424,
+    "views": 1425,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -146,7 +146,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/248",
     "type": "image",
-    "views": 1182,
+    "views": 1183,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -169,7 +169,7 @@
     "html": "<a href=\"https://news.lmarena.ai/code-arena/\" rel=\"nofollow noopener noreferrer\">https://news.lmarena.ai/code-arena/</a>",
     "link": "https://t.me/powerofdata/247",
     "type": "photo",
-    "views": 1253,
+    "views": 1254,
     "forwards": 3,
     "grouped_id": null,
     "media": [
@@ -200,7 +200,7 @@
     "html": "Скоро новогодние корпоративы, главное чтоб этим роботом не были вы",
     "link": "https://t.me/powerofdata/246",
     "type": "video",
-    "views": 1201,
+    "views": 1202,
     "forwards": 20,
     "grouped_id": null,
     "media": [
@@ -235,7 +235,7 @@
     "html": "Друзья, регистрация скоро закроется, честно.<br><br>27 сентября пройдет Practical ML Conf - лучшая конференция по ML в России. За качество отвечаю лично.<br><br><a href=\"https://pmlconf.yandex.ru/2025/?utm_source=pc&amp;utm_medium=link&amp;utm_campaign=pml_25&amp;utm_content=petr_telegr\" rel=\"nofollow noopener noreferrer\">Регистрируйтесь</a> на офлайн сейчас. А если не сможете быть в Москве, <a href=\"https://pmlconf.yandex.ru/2025/?utm_source=pc&amp;utm_medium=link&amp;utm_campaign=pml_25&amp;utm_content=petr_telegr\" rel=\"nofollow noopener noreferrer\">регистрируйтесь</a> на онлайн (в этом году для онлайна делаем дополнительный трек).<br><br>Обещаю интересные доклады, мастер-классы и дискуссии, крутую экспозону и качественный нетворк.<br><br>Репосты приветствуются.",
     "link": "https://t.me/powerofdata/245",
     "type": "photo",
-    "views": 2006,
+    "views": 2007,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -274,7 +274,7 @@
     "html": "Забрасывайте хорошие мемы в комменты 👇",
     "link": "https://t.me/powerofdata/244",
     "type": "photo",
-    "views": 1345,
+    "views": 1346,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -4056,7 +4056,7 @@
     "html": "Завтра 22 мая начинается онлайн <a rel=\"nofollow noopener noreferrer\">DataFest.ru</a> : будет презентация формата, треков и много нетворка<br>С 23 мая по 18 июня ждите кучу докладов и еще больше нетворка<br><br>Я участвую в организации с первого феста.<br>В этом году я делаю SysML, PyData и BigData, помогаю с Data Collection<br>Завтра проведу вновь DS PowerPoint Karaoke <br>А 29 мая проведем выездной стрим DataFest-а<br><br>Кажется, контента море, но как не пропустить? Зарегистрируйтесь на <a rel=\"nofollow noopener noreferrer\">DataFest.ru</a><br>Завтра вам расскажут про платформу и как после регистрации иметь доступ ко всем трекам и расписанию на целый месяц<br><br>Увидимся завтра! А пока не забудьте зарегистрироваться 😉",
     "link": "https://t.me/powerofdata/115",
     "type": "text",
-    "views": 2945,
+    "views": 2946,
     "forwards": 9,
     "grouped_id": null,
     "media": [],
