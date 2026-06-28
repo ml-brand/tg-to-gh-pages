@@ -4981,7 +4981,7 @@
     "html": "<strong>AI для разработчиков и кода</strong><br><br>- <strong>xAI Grok Code Fast 1</strong><br>Стартап xAI (Илон Маск) выпустил модель Grok Code Fast 1, ориентированную на генерацию кода с упором на скорость. Это большая MoE-модель с 314 млрд параметров, поддерживающая контекст до ~262k токенов. Ключевая идея - агентное (агентское? ну вы поняли) кодирование: Grok не просто дополняет код, а самостоятельно выполняет многошаговые задачи, обдумывая решения. Внутреннее тестирование показало неплохую скорость: модель пишет код и находит баги гораздо быстрее конкурентов (за что получила кодовое имя Sonic). Однако разработчики предупреждают: для наилучшего результата запросы нужно формулировать конкретно - если дать расплывчатое ТЗ, Grok может упростить задачу и выдать тривиальное решение (впрочем, как и все ленивые программисты). Доступ: xAI сделала Grok Code Fast включён в платные тарифы Copilot (Pro, Business, Enterprise). Цены API: ~$0.20 за 1M входящих токенов и $1.50 за 1M исходящих. [<a href=\"https://www.timesofai.com/news/grok-code-fast-1-agentic-coding-model-launch/\" rel=\"nofollow noopener noreferrer\">timesofai.com</a>]",
     "link": "https://t.me/powerofdata/241",
     "type": "text",
-    "views": 811,
+    "views": 812,
     "forwards": 1,
     "grouped_id": null,
     "media": [],
@@ -5318,7 +5318,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 1061,
+    "views": 1062,
     "forwards": 5,
     "grouped_id": null,
     "media": [
@@ -5361,7 +5361,7 @@
     "html": "Готовлю исследование по статьям ICML-2026, включайте нотификации, чтобы не пропустить)",
     "link": "https://t.me/powerofdata/253",
     "type": "photo",
-    "views": 296,
+    "views": 297,
     "forwards": 0,
     "grouped_id": null,
     "media": [
