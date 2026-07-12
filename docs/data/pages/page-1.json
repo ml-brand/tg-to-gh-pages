@@ -7,7 +7,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 247,
+    "views": 248,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -223,7 +223,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 1261,
+    "views": 1262,
     "forwards": 11,
     "grouped_id": null,
     "media": [],
@@ -1845,7 +1845,7 @@
     "html": "LLM-ки уже бенчмаркаются в ML задачах, а ты даже не можешь недельку потренить задачки на литкоде, чтоб найти нормальную работу<br><br><a href=\"https://openai.com/index/mle-bench/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/mle-bench/</a><br><a href=\"https://arxiv.org/abs/2410.07095v1\" rel=\"nofollow noopener noreferrer\">https://arxiv.org/abs/2410.07095v1</a>",
     "link": "https://t.me/powerofdata/199",
     "type": "photo",
-    "views": 1695,
+    "views": 1696,
     "forwards": 11,
     "grouped_id": null,
     "media": [
