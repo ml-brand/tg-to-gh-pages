@@ -7,7 +7,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 306,
+    "views": 307,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -50,7 +50,7 @@
     "html": "Сегодня второй день постеров, если вы в Сеуле, го на кофе. <br>А пока пару чисел в карточках о ICML 2026<br><br>а интересное писали тут @MLunderhood, тут @stuffyNLP и тут @timeforCV",
     "link": "https://t.me/powerofdata/254",
     "type": "photo",
-    "views": 401,
+    "views": 402,
     "forwards": 2,
     "grouped_id": 14267904555686762,
     "media": [
@@ -149,7 +149,7 @@
     "html": "Готовлю исследование по статьям ICML-2026, включайте нотификации, чтобы не пропустить)",
     "link": "https://t.me/powerofdata/253",
     "type": "photo",
-    "views": 700,
+    "views": 701,
     "forwards": 0,
     "grouped_id": null,
     "media": [
@@ -184,7 +184,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 1346,
+    "views": 1347,
     "forwards": 6,
     "grouped_id": null,
     "media": [
@@ -594,7 +594,7 @@
     "html": "<strong>AI для изображений и компьютерного зрения</strong><br><br>- <strong>Google Gemini 2.5 Flash Image (nano-banana)</strong>. <br>Google DeepMind официально запустила новую модель Gemini 2.5 Flash Image, известную по тестам под кодовым именем nano-banana. Это генератор и редактор изображений, который возглавил сразу 6 категорий на площадке LMArena:  общей оценке качества редактирования изображений, обойдя даже GPT-4.1 Image и Qwen Image Edit - уступил им лишь в стилизации. Особый акцент сделан на стабильности персонажей и стиле: nano-banana сохраняет облик и позу объектов при многократных редактированиях сцены, решая проблему, когда другие модели «переиначивали» персонажей при каждом новом кадре. Это открывает возможности создавать серии визуалов с одинаковыми героями и дизайном. Модель уже доступна разработчикам в AI Studio, Vertex AI и через API Gemini. [<a href=\"https://masterconcept.ai/blog/is-there-a-new-king-of-ai-image-generation-gemini-2-5-flash-image-is-here/\" rel=\"nofollow noopener noreferrer\">masterconcept.ai</a>] [<a href=\"https://habr.com/ru/news/940968/\" rel=\"nofollow noopener noreferrer\">habr.com</a>] [<a href=\"https://blog.getbind.co/2025/08/28/gemini-2-5-flash-image-nano-banana-is-amazing-heres-how-to-use-it/\" rel=\"nofollow noopener noreferrer\">blog.getbind.co</a>]<br><br>- <strong>Apple FastVLM </strong>-<strong> ультрабыстрые vision-language модели</strong>. <br>Apple анонсировала новую линейку FastVLM - мультимодальные модели с гибридным визуальным энкодером FastViTHD для ускоренной обработки изображений. Ключевая инновация - уменьшение числа визуальных токенов без потери качества: FastVLM выделяет в 4 раза меньше токенов из картинки благодаря дополнительному этапу downsampling в энкодере. В результате, по сравнению с LLaVA-1.5, достигается ускорение Time-To-First-Token в ~3,2 раза при сопоставимом уровне точности. FastVLM показал превосходство на ряде бенчмарков (TextVQA, DocVQA) и обходит конкурентные open-source модели (ConvLLaVA, Cambrian-1) по сочетанию разрешения, скорости и качества. Модели FastVLM доступны на Hugging Face и обучены на единичном узле (8×H100) всего за ~30 минут базовой стадии. В перспективе технология FastViTHD может лечь в основу ускоренных мультимодальных сервисов Apple. [<a href=\"https://www.marktechpost.com/2025/09/02/apple-researchers-introduce-fastvlm-achieving-state-of-the-art-resolution-latency-accuracy-trade-off-in-vision-language-models/\" rel=\"nofollow noopener noreferrer\">marktechpost.com</a>]",
     "link": "https://t.me/powerofdata/239",
     "type": "photo",
-    "views": 669,
+    "views": 670,
     "forwards": 4,
     "grouped_id": null,
     "media": [
