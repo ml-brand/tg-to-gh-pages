@@ -7,7 +7,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 312,
+    "views": 314,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -21,18 +21,18 @@
       }
     ],
     "reactions": {
-      "total": 15,
+      "total": 18,
       "details": [
         {
-          "count": 12,
+          "count": 13,
           "emoji": "😁"
         },
         {
-          "count": 1,
+          "count": 2,
           "emoji": "❤"
         },
         {
-          "count": 1,
+          "count": 2,
           "emoji": "😱"
         },
         {
@@ -50,7 +50,7 @@
     "html": "Сегодня второй день постеров, если вы в Сеуле, го на кофе. <br>А пока пару чисел в карточках о ICML 2026<br><br>а интересное писали тут @MLunderhood, тут @stuffyNLP и тут @timeforCV",
     "link": "https://t.me/powerofdata/254",
     "type": "photo",
-    "views": 408,
+    "views": 410,
     "forwards": 2,
     "grouped_id": 14267904555686762,
     "media": [
@@ -128,14 +128,14 @@
       }
     ],
     "reactions": {
-      "total": 7,
+      "total": 9,
       "details": [
         {
-          "count": 5,
+          "count": 6,
           "emoji": "❤"
         },
         {
-          "count": 2,
+          "count": 3,
           "emoji": "🔥"
         }
       ]
@@ -149,7 +149,7 @@
     "html": "Готовлю исследование по статьям ICML-2026, включайте нотификации, чтобы не пропустить)",
     "link": "https://t.me/powerofdata/253",
     "type": "photo",
-    "views": 705,
+    "views": 706,
     "forwards": 0,
     "grouped_id": null,
     "media": [
@@ -163,14 +163,14 @@
       }
     ],
     "reactions": {
-      "total": 9,
+      "total": 11,
       "details": [
         {
-          "count": 7,
+          "count": 8,
           "emoji": "🔥"
         },
         {
-          "count": 2,
+          "count": 3,
           "emoji": "👀"
         }
       ]
@@ -184,7 +184,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 1352,
+    "views": 1353,
     "forwards": 6,
     "grouped_id": null,
     "media": [
@@ -227,7 +227,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 1286,
+    "views": 1287,
     "forwards": 11,
     "grouped_id": null,
     "media": [],
@@ -1931,7 +1931,7 @@
     "html": "Когда-то этот канал создавался вокруг МЛ-соревнований.<br><br>И вот отличный повод вернуться к этой теме - новые дорожки <a href=\"https://yandex.ru/cup/ml/\" rel=\"nofollow noopener noreferrer\">Yandex ML Cup</a><br>2 дорожки:<br>- <strong>Music information retrieval</strong> - определение кавер-версии трека по акустическим признакам трека<br>- <strong>Self-Driving Cars</strong> - предсказание движения беспилотного автомобиля<br><br>Особенно хочу рекомендавать вторую дорожку: кажется замудренее, потому конкуренции мало, а на деле много точек для роста метрики<br><br>Всем удачи и до встречи в финале 😉",
     "link": "https://t.me/powerofdata/197",
     "type": "photo",
-    "views": 2354,
+    "views": 2355,
     "forwards": 11,
     "grouped_id": null,
     "media": [
