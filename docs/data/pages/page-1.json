@@ -7,7 +7,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 333,
+    "views": 334,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -50,7 +50,7 @@
     "html": "Сегодня второй день постеров, если вы в Сеуле, го на кофе. <br>А пока пару чисел в карточках о ICML 2026<br><br>а интересное писали тут @MLunderhood, тут @stuffyNLP и тут @timeforCV",
     "link": "https://t.me/powerofdata/254",
     "type": "photo",
-    "views": 428,
+    "views": 429,
     "forwards": 2,
     "grouped_id": 14267904555686762,
     "media": [
@@ -149,7 +149,7 @@
     "html": "Готовлю исследование по статьям ICML-2026, включайте нотификации, чтобы не пропустить)",
     "link": "https://t.me/powerofdata/253",
     "type": "photo",
-    "views": 721,
+    "views": 722,
     "forwards": 0,
     "grouped_id": null,
     "media": [
@@ -184,7 +184,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 1364,
+    "views": 1365,
     "forwards": 6,
     "grouped_id": null,
     "media": [
@@ -227,7 +227,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 1296,
+    "views": 1297,
     "forwards": 11,
     "grouped_id": null,
     "media": [],
@@ -261,7 +261,7 @@
     "html": "ML-инженер не обязан лететь на NeurIPS. Но может, если хочет. Я выберу того, кто хочет.<br><br>🎯 Забегай к нам на ML Global Recap 11 декабря, обсудим:<br>➖ NeurlPS<br>➖ CIKM и RecSys и тренды в рекомендательных технологиях<br>➖ ICLR и тренды в компьютерном зрении <br>➖ ICLR и ACL и тренды в NLP<br>➖ Interspeech и тренды в технологиях распознавания речи<br><br>Со всех конф 2025 года везли вам самые интересные папиры<br>О них и куча нетворка: 11 декабря | 18:00 | Москва и онлайн<br>🔗 Подробная программа и регистрация по <a href=\"https://events.yandex.ru/events/ml-global-recap/11-dec-2025?utm_source=tg&amp;utm_medium=owned_media&amp;utm_campaign=recap2025_10_promo&amp;utm_content=ods\" rel=\"nofollow noopener noreferrer\">ссылке</a>.",
     "link": "https://t.me/powerofdata/250",
     "type": "photo",
-    "views": 1831,
+    "views": 1832,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -950,7 +950,7 @@
     "html": "За неделю отзывов в интернете на GPT-5 подойдет кусочек Бродского<br>«... рисовала тушью в блокноте, немножко пела,<br>развлекалась со мной; но потом сошлась с инженером-химиком<br>и, судя по письмам, чудовищно поглупела ...»",
     "link": "https://t.me/powerofdata/228",
     "type": "text",
-    "views": 1186,
+    "views": 1187,
     "forwards": 4,
     "grouped_id": null,
     "media": [],
@@ -976,7 +976,7 @@
     "html": "Спустя 11 лет записал видео по <a href=\"https://arxiv.org/abs/2408.07151\" rel=\"nofollow noopener noreferrer\">tree trimming</a><br>В следующих сериях из plot.slice собираем обеденный pivot_table",
     "link": "https://t.me/powerofdata/227",
     "type": "video",
-    "views": 1243,
+    "views": 1244,
     "forwards": 2,
     "grouped_id": null,
     "media": [
@@ -1019,7 +1019,7 @@
     "html": "<em>Релиз OpenAI вчера все затмил, но вчера вышла Claude Opus 4.1</em><br><br>Флагманская LLM Anthropic с гибридным рассуждением (мгновенный ответ или extended thinking), большим контекстом 200K и длинным выводом до 32K токенов. Оптимизирована для агентных сценариев, длительных кодовых задач и исследовательской аналитики. <br> <br><strong>Ключевые характеристики</strong><br>Гибридное reasoning. Переключаемый режим extended thinking с видимыми саммари рассуждений; через API доступно тонкое управление «бюджетом мышления» (глубиной/стоимостью). <br><br><strong>Память и вывод</strong>. <br>Контекстное окно 200K; поддержка до 32K токенов в ответе — для больших патчей, отчётов и лонгридов. <br> <br>Drop-in для Opus 4 с повышенной точностью на прикладных задачах; доступна в Claude Code для фоновых длительных задач. <br><br><strong>Что умеет</strong><br>Агенты. Сильные результаты на TAU-bench и long-horizon сценариях; подходит для автономной оркестрации сложных бизнес-процессов. <br><br><strong>Кодинг</strong>. Лидерство на SWE-bench; улучшен «code taste», адаптация под стиль проекта; длинный вывод упрощает генерацию и рефакторинг больших модулей. <br><br><strong>Agentic search / research</strong>. Автономный многочасовой разбор источников (патенты, статьи, отчёты) с синтезом инсайтов; эффективно использует длинный контекст. <br><br><strong>Надёжность и безопасность</strong><br>Фильтрация вредоносных запросов: безвредные ответы в 98.76% кейсов (single-turn). Переотказы на «белых» запросах — десятые доли процента. <br><br>Устойчивость в агентных режимах. Для prompt-injection применены обучение с подкреплением и рантайм-детекция с остановкой выполнения при признаках атаки. <br><br>Меньше склонность к злоупотреблениям: ~25% снижение готовности сотрудничать с явными попытками вредоносного использования в экстремальных симуляциях. <br><br>RSP/ASL-3. Релиз проходит по стандарту AI Safety Level 3; новые проверки подтвердили, что модель остаётся ниже порогов ASL-4 по CBRN/автономии/киберу. <br><br><strong>Reward hacking</strong><br>Склонность к «читерским» решениям (hard-coding, подгон под тесты) в среднем сопоставима с Opus 4; наблюдаются небольшие колебания по подпоказателям. Anthropic измеряет это на специальных наборах, включая «невыполнимые» задачи Claude Code. Используйте собственные гейткиперы/тест-наборы в CI. <br><br>Инженерные заметки по внедрению<br>Когда включать extended thinking. Сложные рассуждения, длинные агентные цепочки, многошаговый кодинг, глубокие исследования — там, где качество важнее латентности и цены. <br><br>Длинный контекст (200K). Подходит для скармливания больших кодовых баз/корпусных документов без шардирования промптов. <br><br>Метрики автономии/кибера. На SWE-bench Verified (hard) среднее 18.4 задач (pass@1), а на Cybench — 18/35 челленджей (успех ≥1 из 30 запусков). Используйте как ориентир при выборе набора задач под агента.",
     "link": "https://t.me/powerofdata/226",
     "type": "text",
-    "views": 1459,
+    "views": 1460,
     "forwards": 4,
     "grouped_id": null,
     "media": [],
@@ -1434,7 +1434,7 @@
     "html": "Сейчас будем начинать великолепную МЛ тренировку <br><br>Присоединяйтесь в <a href=\"https://www.youtube.com/live/Nev4nwZNsjQ?si=Xf14M6uF4cL9EoO1\" rel=\"nofollow noopener noreferrer\">онлайне!)</a>",
     "link": "https://t.me/powerofdata/213",
     "type": "photo",
-    "views": 2384,
+    "views": 2385,
     "forwards": 0,
     "grouped_id": null,
     "media": [
@@ -1457,7 +1457,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/212",
     "type": "video",
-    "views": 2331,
+    "views": 2332,
     "forwards": 7,
     "grouped_id": null,
     "media": [
@@ -1488,7 +1488,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/211",
     "type": "video",
-    "views": 2058,
+    "views": 2059,
     "forwards": 13,
     "grouped_id": null,
     "media": [
@@ -1523,7 +1523,7 @@
     "html": "<strong>«Не пропусти будущее»</strong> — реклама нейросетей добралась уже даже до автобусов.",
     "link": "https://t.me/powerofdata/209",
     "type": "photo",
-    "views": 2251,
+    "views": 2252,
     "forwards": 14,
     "grouped_id": null,
     "media": [
@@ -1558,7 +1558,7 @@
     "html": "Привет! В команде редакции, с который мы сотрудничаем в рамках великолепных каналов и некоторых хабр статей открыта <a href=\"https://yandex.ru/jobs/vacancies/pishuschiy-redaktor-21182\" rel=\"nofollow noopener noreferrer\">позиция Пишущего редактора с техническим бэкграундом</a><br><br>Будет возможность поучаствовать в работе над постами в <a href=\"https://t.me/+pIxwABkZzGFkZjNi\" rel=\"nofollow noopener noreferrer\">Душный NLP,</a> <a href=\"https://t.me/+i6zBjALhqKZkNDYy\" rel=\"nofollow noopener noreferrer\">ML Underhood,</a> <a href=\"https://t.me/+whzNdvd4rXY5N2Zi\" rel=\"nofollow noopener noreferrer\">Рекомендательная</a> и <a href=\"https://t.me/+c5JgEuDeYr84N2Ey\" rel=\"nofollow noopener noreferrer\">CV Time.</a><br>А еще ребята делают крутые хабр посты: <a href=\"https://habr.com/ru/companies/yandex/articles/854982/\" rel=\"nofollow noopener noreferrer\">1,</a> <a href=\"https://habr.com/ru/companies/yandex/articles/837360/\" rel=\"nofollow noopener noreferrer\">2,</a> <a href=\"https://habr.com/ru/companies/yandex/articles/820105/\" rel=\"nofollow noopener noreferrer\">3,</a> <a href=\"https://habr.com/ru/companies/yandex/articles/817509/\" rel=\"nofollow noopener noreferrer\">4,</a> <a href=\"https://habr.com/ru/companies/yandex/articles/805745/\" rel=\"nofollow noopener noreferrer\">5</a><br><br>Если вы или ваши друзья имеете опыт редакторской работы от 3 лет, знание сферы ИТ и, в частности, тематики ML, то <a href=\"https://yandex.ru/jobs/vacancies/pishuschiy-redaktor-21182\" rel=\"nofollow noopener noreferrer\">обязательно откликайтесь</a>",
     "link": "https://t.me/powerofdata/208",
     "type": "text",
-    "views": 2247,
+    "views": 2248,
     "forwards": 5,
     "grouped_id": null,
     "media": [],
@@ -1580,7 +1580,7 @@
     "html": "Когда уволил почти всех разработчиков, а код сам не пишется...<br><br><a href=\"https://www.forbes.ru/tekhnologii/525235-vk-otkroetsa-miru-kompania-podelitsa-svoimi-razrabotkami-v-formate-open-source\" rel=\"nofollow noopener noreferrer\">https://www.forbes.ru/tekhnologii/525235-vk-otkroetsa-miru-kompania-podelitsa-svoimi-razrabotkami-v-formate-open-source</a>",
     "link": "https://t.me/powerofdata/207",
     "type": "photo",
-    "views": 2032,
+    "views": 2033,
     "forwards": 18,
     "grouped_id": null,
     "media": [
@@ -1615,7 +1615,7 @@
     "html": "Коллеги запускают онлайн-интенсив по компьютерному зрению от ШАДа и Яндекс<br>Поработаем с диффузионными моделями и узнаем про начинку YandexArt<br><br>Регистрация до 24 ноября<br>Отбор с 6 до 29 ноября<br><br><a href=\"https://shad.yandex.ru/cvweek\" rel=\"nofollow noopener noreferrer\">https://shad.yandex.ru/cvweek</a>",
     "link": "https://t.me/powerofdata/206",
     "type": "photo",
-    "views": 2923,
+    "views": 2924,
     "forwards": 49,
     "grouped_id": null,
     "media": [
@@ -1654,7 +1654,7 @@
     "html": "ИИ фишки в Paint-е, как оливье с гребешками<br><br>Про ИИ нововедения в самые главные Windows инструменты: Paint и Блокнот:<br><br><a href=\"https://blogs.windows.com/windows-insider/2024/11/06/new-ai-experiences-for-paint-and-notepad-begin-rolling-out-to-windows-insiders/\" rel=\"nofollow noopener noreferrer\">https://blogs.windows.com/windows-insider/2024/11/06/new-ai-experiences-for-paint-and-notepad-begin-rolling-out-to-windows-insiders/</a>",
     "link": "https://t.me/powerofdata/205",
     "type": "photo",
-    "views": 1696,
+    "views": 1697,
     "forwards": 0,
     "grouped_id": null,
     "media": [
@@ -1693,7 +1693,7 @@
     "html": "Скатались в Милан на ECCV&#x27;24 и увиденного хватило еще на целый хабр-пост<br><a href=\"https://habr.com/ru/companies/yandex/articles/854982/\" rel=\"nofollow noopener noreferrer\">https://habr.com/ru/companies/yandex/articles/854982/</a><br><br>От личных впечатлений о н<del>егрони и ризотто</del> месте конференции, до понравившихся статей.<br>С вас лайк статье, с нас еще больше интересных и полезных материалов",
     "link": "https://t.me/powerofdata/204",
     "type": "photo",
-    "views": 1547,
+    "views": 1548,
     "forwards": 4,
     "grouped_id": null,
     "media": [
