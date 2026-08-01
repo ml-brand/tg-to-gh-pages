@@ -3450,7 +3450,7 @@
     "html": "ахаха) но с другим справляется получше <a href=\"https://huggingface.co/glif/how2draw\" rel=\"nofollow noopener noreferrer\">https://huggingface.co/glif/how2draw</a>",
     "link": "https://t.me/powerofdata/194",
     "type": "photo",
-    "views": 1965,
+    "views": 1966,
     "forwards": 5,
     "grouped_id": null,
     "media": [
@@ -3481,7 +3481,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/195",
     "type": "photo",
-    "views": 1815,
+    "views": 1816,
     "forwards": 13,
     "grouped_id": null,
     "media": [
@@ -3532,7 +3532,7 @@
     "html": "<strong>Начинаем ML Party Белград<br><br>Подключайтесь ;)<br>Через 2 минуты начинаем<br></strong><strong><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji></strong><strong> </strong><a href=\"https://www.youtube.com/live/xXjFWOmj6o8?si=8PtLjuM6_oy7WLL6\" rel=\"nofollow noopener noreferrer\">Смотреть трансляцию на YouTube</a><strong><br></strong><strong><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji></strong><strong> </strong><a href=\"https://vk.com/video-17796776_456241183\" rel=\"nofollow noopener noreferrer\">Смотреть в VK</a><strong><br><br></strong><strong><tg-emoji emoji-id=\"5341470192595653209\">⚪️</tg-emoji></strong><strong> </strong>Илья Ирхин, руководитель подразделения аналитики в Яндекс Еде.<strong> Подробно рассмотрит рекламу ресторанов в сервисе: аукцион, ранжирование, ценообразование<br><br></strong><strong><tg-emoji emoji-id=\"5341470192595653209\">⚪️</tg-emoji></strong><strong> </strong>Дмитрий Солодуха, руководитель группы в Алисе и Умных устройствах Яндекса. <strong>Покажет, как мы учим Алису откликаться без имени<br><br></strong><strong><tg-emoji emoji-id=\"5341470192595653209\">⚪️</tg-emoji></strong><strong> </strong>Антон Клочков, руководитель подгруппы распознавания текста в VLM в Яндекс Поиске.<strong> Расскажет о развитии навыков распознавания текста в VLM<br><br></strong><strong><tg-emoji emoji-id=\"5341470192595653209\">⚪️</tg-emoji></strong><strong> </strong>Пётр Вытовтов, руководитель группы в Яндекс Погоде. <strong>Рассмотрит трансформеры сервиса и расскажет, как начать прогнозировать до миллиметра осадков</strong>",
     "link": "https://t.me/powerofdata/196",
     "type": "photo",
-    "views": 1666,
+    "views": 1667,
     "forwards": 5,
     "grouped_id": null,
     "media": [
@@ -3571,7 +3571,7 @@
     "html": "Когда-то этот канал создавался вокруг МЛ-соревнований.<br><br>И вот отличный повод вернуться к этой теме - новые дорожки <a href=\"https://yandex.ru/cup/ml/\" rel=\"nofollow noopener noreferrer\">Yandex ML Cup</a><br>2 дорожки:<br>- <strong>Music information retrieval</strong> - определение кавер-версии трека по акустическим признакам трека<br>- <strong>Self-Driving Cars</strong> - предсказание движения беспилотного автомобиля<br><br>Особенно хочу рекомендавать вторую дорожку: кажется замудренее, потому конкуренции мало, а на деле много точек для роста метрики<br><br>Всем удачи и до встречи в финале 😉",
     "link": "https://t.me/powerofdata/197",
     "type": "photo",
-    "views": 2356,
+    "views": 2357,
     "forwards": 11,
     "grouped_id": null,
     "media": [
@@ -5284,7 +5284,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 1339,
+    "views": 1340,
     "forwards": 11,
     "grouped_id": null,
     "media": [],
@@ -5318,7 +5318,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 1469,
+    "views": 1471,
     "forwards": 6,
     "grouped_id": null,
     "media": [
@@ -5361,7 +5361,7 @@
     "html": "Готовлю исследование по статьям ICML-2026, включайте нотификации, чтобы не пропустить)",
     "link": "https://t.me/powerofdata/253",
     "type": "photo",
-    "views": 831,
+    "views": 833,
     "forwards": 0,
     "grouped_id": null,
     "media": [
@@ -5396,7 +5396,7 @@
     "html": "Сегодня второй день постеров, если вы в Сеуле, го на кофе. <br>А пока пару чисел в карточках о ICML 2026<br><br>а интересное писали тут @MLunderhood, тут @stuffyNLP и тут @timeforCV",
     "link": "https://t.me/powerofdata/254",
     "type": "photo",
-    "views": 585,
+    "views": 587,
     "forwards": 2,
     "grouped_id": 14267904555686762,
     "media": [
@@ -5495,7 +5495,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 596,
+    "views": 598,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5538,7 +5538,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/264",
     "type": "photo",
-    "views": 281,
+    "views": 283,
     "forwards": 1,
     "grouped_id": null,
     "media": [
