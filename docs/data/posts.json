@@ -2985,7 +2985,7 @@
     "html": "Новый AI Index Report 2024 опубликован!<br><br>Сайт: <a href=\"https://aiindex.stanford.edu/report/\" rel=\"nofollow noopener noreferrer\">https://aiindex.stanford.edu/report/</a><br>PDF: <a href=\"https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_AI-Index-Report-2024.pdf\" rel=\"nofollow noopener noreferrer\">https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_AI-Index-Report-2024.pdf</a>",
     "link": "https://t.me/powerofdata/182",
     "type": "text",
-    "views": 3234,
+    "views": 3235,
     "forwards": 26,
     "grouped_id": null,
     "media": [],
@@ -3011,7 +3011,7 @@
     "html": "Вряд ли в трамваях ESM поддержка)",
     "link": "https://t.me/powerofdata/183",
     "type": "photo",
-    "views": 2933,
+    "views": 2934,
     "forwards": 2,
     "grouped_id": null,
     "media": [
@@ -3170,7 +3170,7 @@
     "html": "<strong>Ускорить обучение LLM 70B на 25%? Легко! YaFSDP </strong><br><br>Сегодня мы выĸладываем в опенсорс наш новый инструмент — библиотеку<a href=\"https://github.com/yandex/YaFSDP\" rel=\"nofollow noopener noreferrer\"> YaFSDP</a>. Она значительно ускоряет обучение больших языковых моделей — как собственной разработки, так и сторонних, с открытым исходным кодом. <br><br>Библиотека даёт ускорение до 25% — результат зависит от архитектуры и параметров нейросети. С помощью YaFSDP также можно расходовать до 20% меньше ресурсов графических процессоров (GPU), которые требуются для обучения. <br><br><strong>Несколько подходов нашего метода:</strong><br><br>— выделить два буфера под все собираемые веса, чтобы не отдавать их на отĸуп аллоĸатору памяти torch. Каждый нечётный слой будет использовать первый буфер, ĸаждый чётный — второй. Это уменьшит нагрузку на память и сделает её использование более предсказуемым;<br>— не делать чеĸпоинт аĸтиваций для ĸаĸ можно большего числа слоёв. Это позволит убрать избыточные вычисления за счёт сэкономленной памяти;<br>— выделить два стрима: вычислений и ĸоммуниĸаций, а синхронизацию построить таким образом, чтобы forward не начинался до завершения all_gather того же слоя, а all_gather не начинался до освобождения соответствующего буффера на предыдущем слое;<br>— разово собирать RMSNorm/LayerNorm в начале итерации и тольĸо в ĸонце усреднить градиенты;<br>— вынести predivide в самый ĸонец backward, таĸ ĸаĸ при reduce_scatter в bf16 или fp32 рисĸа переполнения нет.<br><br>Более подробно про проблемы обучения на множестве GPU можно <a href=\"https://habr.com/ru/companies/yandex/articles/817509/\" rel=\"nofollow noopener noreferrer\">почитать на Хабре</a>. Приходите в <a href=\"https://github.com/yandex/YaFSDP\" rel=\"nofollow noopener noreferrer\">репозиторий библиотеки YaFSDP</a>, ставьте лайк и приносите вопросы в Issues. А ещё — делитесь своими впечатлениями здесь в комментариях.<br><br><a href=\"https://t.me/stuffyNLP\" rel=\"nofollow noopener noreferrer\">Душный NLP</a>",
     "link": "https://t.me/powerofdata/187",
     "type": "photo",
-    "views": 2811,
+    "views": 2812,
     "forwards": 21,
     "grouped_id": null,
     "media": [
@@ -3205,7 +3205,7 @@
     "html": "Редко тут посты, потому в основном создаем новые каналы)<br><br><a href=\"https://t.me/+nWPuPVZZl3o4YmM6\" rel=\"nofollow noopener noreferrer\"><u>Yandex ML Underhood</u></a> — канал, где рассказываем подноготную ML в Яндексе.<br>Про особенности запуска <a href=\"https://t.me/MLunderhood/13\" rel=\"nofollow noopener noreferrer\">опенсорса YaFSDP</a>, как вентиляторы в суперкомпьютерах <a href=\"https://t.me/MLunderhood/11\" rel=\"nofollow noopener noreferrer\">превращались в шрапнель</a>, как (имея крутой пайплайн TTS для русского) сделать <a href=\"https://t.me/MLunderhood/14\" rel=\"nofollow noopener noreferrer\">Алису на казахском</a> и многое другое.<br><br>Каждый пост у нас нетленка, так что не только подписывайтесь, но и читайте предыдущие посты.",
     "link": "https://t.me/powerofdata/188",
     "type": "text",
-    "views": 2474,
+    "views": 2475,
     "forwards": 8,
     "grouped_id": null,
     "media": [],
@@ -3239,7 +3239,7 @@
     "html": "<em>Дорогой дневник, мне не подобрать слов...</em><br><br>Да, канал превратился в отчетную историю, что было сделано или будет вот-вот)<br>Я пришел в этот раз позвать вас на конференцию <a href=\"https://pmlconf.yandex.ru/?utm_source=pc&amp;utm_medium=link&amp;utm_campaign=pml_14.09.24&amp;utm_content=ML_brand\" rel=\"nofollow noopener noreferrer\">PML Conf - регайтесь</a><br>Уже в эту субботу, 14 сентября, Москва и онлайн трансляция<br><br>Внегласный лозунг этой конфы -&gt; этого не напишут в научных статьях<br>Мы действительно постарались отобрать именно такие доклады",
     "link": "https://t.me/powerofdata/189",
     "type": "photo",
-    "views": 2171,
+    "views": 2172,
     "forwards": 8,
     "grouped_id": null,
     "media": [
@@ -3278,7 +3278,7 @@
     "html": "Друзья, стартуем нашу <br>Подключайтесь ;)<br><br><a href=\"https://youtube.com/live/0goHevaSgLw\" rel=\"nofollow noopener noreferrer\">https://youtube.com/live/0goHevaSgLw</a>",
     "link": "https://t.me/powerofdata/190",
     "type": "photo",
-    "views": 1876,
+    "views": 1877,
     "forwards": 3,
     "grouped_id": null,
     "media": [
@@ -3317,7 +3317,7 @@
     "html": "А, вот еще ссылка зала<br><br><a href=\"https://www.youtube.com/live/ZbLX27_GS_8?si=fP40k8bQ7i0lWV3U\" rel=\"nofollow noopener noreferrer\">https://www.youtube.com/live/ZbLX27_GS_8?si=fP40k8bQ7i0lWV3U</a>",
     "link": "https://t.me/powerofdata/191",
     "type": "photo",
-    "views": 2322,
+    "views": 2323,
     "forwards": 3,
     "grouped_id": null,
     "media": [
@@ -3356,7 +3356,7 @@
     "html": "Лучше б эти люди размечали данные для LLM и заработали бы больше",
     "link": "https://t.me/powerofdata/192",
     "type": "photo",
-    "views": 2016,
+    "views": 2017,
     "forwards": 11,
     "grouped_id": null,
     "media": [
@@ -4281,7 +4281,7 @@
     "html": "Два моих хороших товарища встретились на подкасте. Мне очень понравилось как вышло, советую посмотреть!<br><br><a href=\"https://youtu.be/QKt2BlKUwpk\" rel=\"nofollow noopener noreferrer\">https://youtu.be/QKt2BlKUwpk</a><br><a href=\"https://vk.com/video-225790208_456239026\" rel=\"nofollow noopener noreferrer\">ВК</a>, <a href=\"https://rutube.ru/video/d19a79a4e529f39c71c38f4a9a20a250/\" rel=\"nofollow noopener noreferrer\">Rutube</a>, <a href=\"https://open.spotify.com/episode/5RuAtts4R5sJbzH6kclcno?si=C4B1w9UmRXmU54_Qqm-Oww\" rel=\"nofollow noopener noreferrer\">Spotify</a>, <a href=\"https://podcasts.apple.com/au/podcast/%D0%BA%D0%B0%D0%BA-%D0%BC%D1%8B-%D0%BF%D1%80%D0%B8%D1%88%D0%BB%D0%B8-%D0%BA-%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%BC-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D0%BC-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B1%D1%83%D0%B3%D0%B0%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE/id1744708148?i=1000710675669\" rel=\"nofollow noopener noreferrer\">Apple Podcasts</a>, <a href=\"https://music.yandex.ru/album/31086668/track/139831943?utm_source=web&amp;utm_medium=copy_link\" rel=\"nofollow noopener noreferrer\">Яндекс.Музыка</a>",
     "link": "https://t.me/powerofdata/219",
     "type": "photo",
-    "views": 2112,
+    "views": 2113,
     "forwards": 17,
     "grouped_id": null,
     "media": [
