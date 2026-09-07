@@ -5495,7 +5495,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 712,
+    "views": 713,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5533,12 +5533,12 @@
   {
     "id": 264,
     "date": "2026-07-30T12:28:00+00:00",
-    "edited": "2026-07-30T12:28:04+00:00",
+    "edited": "2026-09-07T12:51:33+00:00",
     "text": "",
     "html": "",
     "link": "https://t.me/powerofdata/264",
     "type": "photo",
-    "views": 410,
+    "views": 411,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5551,6 +5551,14 @@
         "name": null
       }
     ],
-    "reactions": null
+    "reactions": {
+      "total": 1,
+      "details": [
+        {
+          "count": 1,
+          "emoji": "❤"
+        }
+      ]
+    }
   }
 ]
