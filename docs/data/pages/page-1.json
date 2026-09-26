@@ -7,7 +7,7 @@
     "html": "Друзья! у нас последний день регистрации на офлайн Practical ML Conf — <a href=\"https://pmlconf.yandex.ru/2026/\" rel=\"nofollow noopener noreferrer\">https://pmlconf.yandex.ru/2026/</a><br><br>Регистрируйтесь) А те, кто могут только онлайн — ждем в гости онлайн!",
     "link": "https://t.me/powerofdata/265",
     "type": "video",
-    "views": 2465,
+    "views": 2482,
     "forwards": 7,
     "grouped_id": null,
     "media": [
@@ -42,7 +42,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/264",
     "type": "photo",
-    "views": 730,
+    "views": 732,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -73,7 +73,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 904,
+    "views": 906,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -3688,7 +3688,7 @@
     "html": "#opensource : RuLeanALBERT от Yandex Research<br>2.9B трансформер для русского, которая влезет в домашнюю ПеКарню ресерчера<br><br>Мало того, что это самая большая БЕРТ-подобная модель для русского языка, которая показывает крутые результаты в бенчмарках, так еще и с кодом для fine-tuning-а<br><br><a href=\"https://github.com/yandex-research/RuLeanALBERT\" rel=\"nofollow noopener noreferrer\">GitHub</a><br><br>А в <a href=\"https://habr.com/ru/company/yandex/blog/688234/\" rel=\"nofollow noopener noreferrer\">статье</a> можете узнать, как обучалась эта модель (а-ля коллаборативное глубокое обучение) на фреймворке по децентрализованному обучению <a href=\"https://github.com/learning-at-home/hivemind\" rel=\"nofollow noopener noreferrer\">Hivemind</a>",
     "link": "https://t.me/powerofdata/148",
     "type": "text",
-    "views": 26439,
+    "views": 26440,
     "forwards": 178,
     "grouped_id": null,
     "media": [
