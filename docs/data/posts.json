@@ -5284,7 +5284,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 1606,
+    "views": 1608,
     "forwards": 11,
     "grouped_id": null,
     "media": [],
@@ -5318,7 +5318,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 1853,
+    "views": 1854,
     "forwards": 6,
     "grouped_id": null,
     "media": [
@@ -5361,7 +5361,7 @@
     "html": "Готовлю исследование по статьям ICML-2026, включайте нотификации, чтобы не пропустить)",
     "link": "https://t.me/powerofdata/253",
     "type": "photo",
-    "views": 1293,
+    "views": 1294,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5396,7 +5396,7 @@
     "html": "Сегодня второй день постеров, если вы в Сеуле, го на кофе. <br>А пока пару чисел в карточках о ICML 2026<br><br>а интересное писали тут @MLunderhood, тут @stuffyNLP и тут @timeforCV",
     "link": "https://t.me/powerofdata/254",
     "type": "photo",
-    "views": 1136,
+    "views": 1139,
     "forwards": 2,
     "grouped_id": 14267904555686762,
     "media": [
@@ -5495,7 +5495,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 1293,
+    "views": 1297,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5538,7 +5538,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/264",
     "type": "photo",
-    "views": 1180,
+    "views": 1184,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5569,7 +5569,7 @@
     "html": "Друзья! у нас последний день регистрации на офлайн Practical ML Conf — <a href=\"https://pmlconf.yandex.ru/2026/\" rel=\"nofollow noopener noreferrer\">https://pmlconf.yandex.ru/2026/</a><br><br>Регистрируйтесь) А те, кто могут только онлайн — ждем в гости онлайн!",
     "link": "https://t.me/powerofdata/265",
     "type": "video",
-    "views": 3787,
+    "views": 3798,
     "forwards": 7,
     "grouped_id": null,
     "media": [
@@ -5604,7 +5604,7 @@
     "html": "В ночь с 7 на 8 октября дата-центр Яндекса в Сасово был серьезно повреждён из-за атаки БПЛА. Его работа полностью остановлена. Сегодня утром произошла атака на ещё один наш дата-центр, в Калуге. Часть инфраструктуры вышла из строя. Ни в Сасово, ни в Калуге сотрудники не пострадали. Сейчас на месте работают экстренные службы и наши специалисты. <br><br>Дата-центры — «железное сердце» Яндекса. Их работоспособность критична для сервисов, которые стали частью повседневной жизни людей. Миллионы пользователей проверяют пробки и строят маршруты, слушают музыку, смотрят кино, заказывают продукты и получают ответы на вопросы. Наши технологии помогают вести бизнес сотням тысяч компаний: принимать заказы, обслуживать клиентов, взаимодействовать с партнёрами.<br><br>Мы понимаем, что для наших пользователей, клиентов и партнёров каждый сбой — это нарушенные планы и невозможность сделать то, что было частью повседневной жизни или работы.<br><br>Команды Яндекса ночью и днём делают всё возможное, чтобы обеспечить работу сервисов и помочь тем, кого затронул инцидент. Сейчас это наша самая важная задача, но, к сожалению, она непростая.<br><br>Спасибо нашим сотрудникам — тем, кто находится на площадках, и тем, кто продолжает работать над восстановлением сервисов. Спасибо партнёрам за терпение и сотрудничество, а пользователям — за понимание.<br><br>Мы продолжаем оценивать состояние инфраструктуры — пока назвать сроки восстановления работы оборудования в дата-центрах очень сложно. Будем рассказывать о ситуации по мере появления информации.<br><br>Команда Яндекса <tg-emoji emoji-id=\"5379803978303290314\">❤️</tg-emoji>",
     "link": "https://t.me/powerofdata/266",
     "type": "photo",
-    "views": 248,
+    "views": 254,
     "forwards": 11,
     "grouped_id": null,
     "media": [
