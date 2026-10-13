@@ -7,7 +7,7 @@
     "html": "В ночь с 7 на 8 октября дата-центр Яндекса в Сасово был серьезно повреждён из-за атаки БПЛА. Его работа полностью остановлена. Сегодня утром произошла атака на ещё один наш дата-центр, в Калуге. Часть инфраструктуры вышла из строя. Ни в Сасово, ни в Калуге сотрудники не пострадали. Сейчас на месте работают экстренные службы и наши специалисты. <br><br>Дата-центры — «железное сердце» Яндекса. Их работоспособность критична для сервисов, которые стали частью повседневной жизни людей. Миллионы пользователей проверяют пробки и строят маршруты, слушают музыку, смотрят кино, заказывают продукты и получают ответы на вопросы. Наши технологии помогают вести бизнес сотням тысяч компаний: принимать заказы, обслуживать клиентов, взаимодействовать с партнёрами.<br><br>Мы понимаем, что для наших пользователей, клиентов и партнёров каждый сбой — это нарушенные планы и невозможность сделать то, что было частью повседневной жизни или работы.<br><br>Команды Яндекса ночью и днём делают всё возможное, чтобы обеспечить работу сервисов и помочь тем, кого затронул инцидент. Сейчас это наша самая важная задача, но, к сожалению, она непростая.<br><br>Спасибо нашим сотрудникам — тем, кто находится на площадках, и тем, кто продолжает работать над восстановлением сервисов. Спасибо партнёрам за терпение и сотрудничество, а пользователям — за понимание.<br><br>Мы продолжаем оценивать состояние инфраструктуры — пока назвать сроки восстановления работы оборудования в дата-центрах очень сложно. Будем рассказывать о ситуации по мере появления информации.<br><br>Команда Яндекса <tg-emoji emoji-id=\"5379803978303290314\">❤️</tg-emoji>",
     "link": "https://t.me/powerofdata/266",
     "type": "photo",
-    "views": 300,
+    "views": 305,
     "forwards": 12,
     "grouped_id": null,
     "media": [
@@ -54,7 +54,7 @@
     "html": "Друзья! у нас последний день регистрации на офлайн Practical ML Conf — <a href=\"https://pmlconf.yandex.ru/2026/\" rel=\"nofollow noopener noreferrer\">https://pmlconf.yandex.ru/2026/</a><br><br>Регистрируйтесь) А те, кто могут только онлайн — ждем в гости онлайн!",
     "link": "https://t.me/powerofdata/265",
     "type": "video",
-    "views": 3892,
+    "views": 3901,
     "forwards": 7,
     "grouped_id": null,
     "media": [
@@ -89,7 +89,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/264",
     "type": "photo",
-    "views": 1220,
+    "views": 1224,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -120,7 +120,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 1328,
+    "views": 1330,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -163,7 +163,7 @@
     "html": "Сегодня второй день постеров, если вы в Сеуле, го на кофе. <br>А пока пару чисел в карточках о ICML 2026<br><br>а интересное писали тут @MLunderhood, тут @stuffyNLP и тут @timeforCV",
     "link": "https://t.me/powerofdata/254",
     "type": "photo",
-    "views": 1156,
+    "views": 1157,
     "forwards": 2,
     "grouped_id": 14267904555686762,
     "media": [
@@ -262,7 +262,7 @@
     "html": "Готовлю исследование по статьям ICML-2026, включайте нотификации, чтобы не пропустить)",
     "link": "https://t.me/powerofdata/253",
     "type": "photo",
-    "views": 1312,
+    "views": 1313,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -297,7 +297,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 1864,
+    "views": 1865,
     "forwards": 6,
     "grouped_id": null,
     "media": [
@@ -340,7 +340,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 1618,
+    "views": 1619,
     "forwards": 11,
     "grouped_id": null,
     "media": [],
@@ -1020,7 +1020,7 @@
     "html": "Хорошее интервью Дороничева у Дудя* (для наших родителей просто про AI), но зацепил этот фрагмент, который максимально откликается с моим переходом от ML &quot;руками&quot; к ML Brand-у. <br><br>&quot;Мир меняется и тебе надо меняться&quot;<br><br><em>*Юрий Дудь признаны иностранным агентом на территории РФ</em>",
     "link": "https://t.me/powerofdata/229",
     "type": "video",
-    "views": 1239,
+    "views": 1240,
     "forwards": 10,
     "grouped_id": null,
     "media": [
@@ -1063,7 +1063,7 @@
     "html": "За неделю отзывов в интернете на GPT-5 подойдет кусочек Бродского<br>«... рисовала тушью в блокноте, немножко пела,<br>развлекалась со мной; но потом сошлась с инженером-химиком<br>и, судя по письмам, чудовищно поглупела ...»",
     "link": "https://t.me/powerofdata/228",
     "type": "text",
-    "views": 1203,
+    "views": 1204,
     "forwards": 4,
     "grouped_id": null,
     "media": [],
@@ -1089,7 +1089,7 @@
     "html": "Спустя 11 лет записал видео по <a href=\"https://arxiv.org/abs/2408.07151\" rel=\"nofollow noopener noreferrer\">tree trimming</a><br>В следующих сериях из plot.slice собираем обеденный pivot_table",
     "link": "https://t.me/powerofdata/227",
     "type": "video",
-    "views": 1257,
+    "views": 1258,
     "forwards": 2,
     "grouped_id": null,
     "media": [
@@ -1693,7 +1693,7 @@
     "html": "Когда уволил почти всех разработчиков, а код сам не пишется...<br><br><a href=\"https://www.forbes.ru/tekhnologii/525235-vk-otkroetsa-miru-kompania-podelitsa-svoimi-razrabotkami-v-formate-open-source\" rel=\"nofollow noopener noreferrer\">https://www.forbes.ru/tekhnologii/525235-vk-otkroetsa-miru-kompania-podelitsa-svoimi-razrabotkami-v-formate-open-source</a>",
     "link": "https://t.me/powerofdata/207",
     "type": "photo",
-    "views": 2037,
+    "views": 2038,
     "forwards": 18,
     "grouped_id": null,
     "media": [
