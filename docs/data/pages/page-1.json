@@ -54,7 +54,7 @@
     "html": "Друзья! у нас последний день регистрации на офлайн Practical ML Conf — <a href=\"https://pmlconf.yandex.ru/2026/\" rel=\"nofollow noopener noreferrer\">https://pmlconf.yandex.ru/2026/</a><br><br>Регистрируйтесь) А те, кто могут только онлайн — ждем в гости онлайн!",
     "link": "https://t.me/powerofdata/265",
     "type": "video",
-    "views": 4263,
+    "views": 4273,
     "forwards": 7,
     "grouped_id": null,
     "media": [
@@ -1316,7 +1316,7 @@
     "html": "27 сентября пройдет главное ML-событие года: Practical ML Conf<br>Это будет уже 3 Practical ML Conf<br><br>Приглашаю вас подать заявку на нашу хардовую и практическую конференцию по ML. <br>В этом году доклады принимаем как на офлайн в Москву так и на онлайн трек!<br>Для конца подачи остается пара дней!<br><br>Practical ML Conf - о чем не напишут в научных статьях!<br><a href=\"https://pmlconf.yandex.ru/call_for_papers?utm_source=pe&amp;utm_medium=tg&amp;utm_campaign=pml_cfp_25&amp;utm_content=petr_ermakov\" rel=\"nofollow noopener noreferrer\">Подать заявку можно тут</a>",
     "link": "https://t.me/powerofdata/220",
     "type": "text",
-    "views": 2253,
+    "views": 2254,
     "forwards": 4,
     "grouped_id": null,
     "media": [],
@@ -3735,7 +3735,7 @@
     "html": "#opensource : RuLeanALBERT от Yandex Research<br>2.9B трансформер для русского, которая влезет в домашнюю ПеКарню ресерчера<br><br>Мало того, что это самая большая БЕРТ-подобная модель для русского языка, которая показывает крутые результаты в бенчмарках, так еще и с кодом для fine-tuning-а<br><br><a href=\"https://github.com/yandex-research/RuLeanALBERT\" rel=\"nofollow noopener noreferrer\">GitHub</a><br><br>А в <a href=\"https://habr.com/ru/company/yandex/blog/688234/\" rel=\"nofollow noopener noreferrer\">статье</a> можете узнать, как обучалась эта модель (а-ля коллаборативное глубокое обучение) на фреймворке по децентрализованному обучению <a href=\"https://github.com/learning-at-home/hivemind\" rel=\"nofollow noopener noreferrer\">Hivemind</a>",
     "link": "https://t.me/powerofdata/148",
     "type": "text",
-    "views": 26444,
+    "views": 26445,
     "forwards": 178,
     "grouped_id": null,
     "media": [
