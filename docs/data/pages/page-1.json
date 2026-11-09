@@ -7,7 +7,7 @@
     "html": "Думал ли я в 2019 году, что в Теремке на одноразовой тарелке с блином будет написано Generative Pre-trained Transformer.<br><br>Ваша нейросеть обучена, сударь.",
     "link": "https://t.me/powerofdata/267",
     "type": "photo",
-    "views": 477,
+    "views": 489,
     "forwards": 19,
     "grouped_id": null,
     "media": [
@@ -50,7 +50,7 @@
     "html": "В ночь с 7 на 8 октября дата-центр Яндекса в Сасово был серьезно повреждён из-за атаки БПЛА. Его работа полностью остановлена. Сегодня утром произошла атака на ещё один наш дата-центр, в Калуге. Часть инфраструктуры вышла из строя. Ни в Сасово, ни в Калуге сотрудники не пострадали. Сейчас на месте работают экстренные службы и наши специалисты. <br><br>Дата-центры — «железное сердце» Яндекса. Их работоспособность критична для сервисов, которые стали частью повседневной жизни людей. Миллионы пользователей проверяют пробки и строят маршруты, слушают музыку, смотрят кино, заказывают продукты и получают ответы на вопросы. Наши технологии помогают вести бизнес сотням тысяч компаний: принимать заказы, обслуживать клиентов, взаимодействовать с партнёрами.<br><br>Мы понимаем, что для наших пользователей, клиентов и партнёров каждый сбой — это нарушенные планы и невозможность сделать то, что было частью повседневной жизни или работы.<br><br>Команды Яндекса ночью и днём делают всё возможное, чтобы обеспечить работу сервисов и помочь тем, кого затронул инцидент. Сейчас это наша самая важная задача, но, к сожалению, она непростая.<br><br>Спасибо нашим сотрудникам — тем, кто находится на площадках, и тем, кто продолжает работать над восстановлением сервисов. Спасибо партнёрам за терпение и сотрудничество, а пользователям — за понимание.<br><br>Мы продолжаем оценивать состояние инфраструктуры — пока назвать сроки восстановления работы оборудования в дата-центрах очень сложно. Будем рассказывать о ситуации по мере появления информации.<br><br>Команда Яндекса <tg-emoji emoji-id=\"5379803978303290314\">❤️</tg-emoji>",
     "link": "https://t.me/powerofdata/266",
     "type": "photo",
-    "views": 778,
+    "views": 784,
     "forwards": 12,
     "grouped_id": null,
     "media": [
@@ -97,7 +97,7 @@
     "html": "Друзья! у нас последний день регистрации на офлайн Practical ML Conf — <a href=\"https://pmlconf.yandex.ru/2026/\" rel=\"nofollow noopener noreferrer\">https://pmlconf.yandex.ru/2026/</a><br><br>Регистрируйтесь) А те, кто могут только онлайн — ждем в гости онлайн!",
     "link": "https://t.me/powerofdata/265",
     "type": "video",
-    "views": 4558,
+    "views": 4564,
     "forwards": 7,
     "grouped_id": null,
     "media": [
@@ -132,7 +132,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/264",
     "type": "photo",
-    "views": 1442,
+    "views": 1445,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -163,7 +163,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 1455,
+    "views": 1457,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -340,7 +340,7 @@
     "html": "Друзья!<br><br><tg-emoji emoji-id=\"5379604382583129826\">🩵</tg-emoji> Мы начинаем подготовку нашей конференции по машинному обучению <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">Practical ML Conf,</a> которая пройдет 19 сентября в Москве.<br><br>До 22 мая <a href=\"https://pmlconf.yandex.ru/2026/call-for-papers?utm_source=tg&amp;utm_medium=petr_friends&amp;utm_campaign=petya1\" rel=\"nofollow noopener noreferrer\">ждем как можно больше хардовых заявок</a> о практическом применении машинного обучения.<br><br><tg-emoji emoji-id=\"5341724673702907683\">🔳</tg-emoji> Хотим дотянуться до каждого ML-специалиста, пожалуйста, помогите с распространением.<br><br><a href=\"http://t.me/Practical_ML_Conf\" rel=\"nofollow noopener noreferrer\">Подписывайтесь</a> на новый канал конференции, там будут выходить все подробности конференции.",
     "link": "https://t.me/powerofdata/252",
     "type": "video",
-    "views": 1940,
+    "views": 1941,
     "forwards": 6,
     "grouped_id": null,
     "media": [
@@ -383,7 +383,7 @@
     "html": "Для тех кто хочет зеркалировать свой тг-канал без гемора<br>Сделал <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">небольшой проект:</a> форкаете, сохраняете креды в github secrets и на github pages получаете веб-ленту тг-канала. Посты забираются раз в час (можно менять) через github actions. Не нужны впс-ки, домены и тп.<br><br>Примеры как работает:<br>• <a href=\"https://ml-brand.github.io/stuffyNLP/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/stuffyNLP/</a><br>• <a href=\"https://ml-brand.github.io/RecSysChannel/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/RecSysChannel/</a><br>• <a href=\"https://ml-brand.github.io/timeforcv/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/timeforcv/</a><br>• <a href=\"https://ml-brand.github.io/speechinfo/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/speechinfo/</a><br>• <a href=\"https://ml-brand.github.io/DriverNotFound/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/DriverNotFound/</a><br>• <a href=\"https://ml-brand.github.io/MLunderhood/\" rel=\"nofollow noopener noreferrer\">https://ml-brand.github.io/MLunderhood/</a><br><br>Вся инструкция в <a href=\"https://github.com/ml-brand/tg-to-gh-pages\" rel=\"nofollow noopener noreferrer\">ридми</a> проекта: можно включить автоматическое создание статической копии, rss, atom, sitemap.xml<br>2 месяца работает без сбоев. Предложения принимаются в issue и pr.<br><br>Лучше б мозг себе заблокировали (хотя видимо уже)",
     "link": "https://t.me/powerofdata/251",
     "type": "text",
-    "views": 1669,
+    "views": 1670,
     "forwards": 11,
     "grouped_id": null,
     "media": [],
@@ -417,7 +417,7 @@
     "html": "ML-инженер не обязан лететь на NeurIPS. Но может, если хочет. Я выберу того, кто хочет.<br><br>🎯 Забегай к нам на ML Global Recap 11 декабря, обсудим:<br>➖ NeurlPS<br>➖ CIKM и RecSys и тренды в рекомендательных технологиях<br>➖ ICLR и тренды в компьютерном зрении <br>➖ ICLR и ACL и тренды в NLP<br>➖ Interspeech и тренды в технологиях распознавания речи<br><br>Со всех конф 2025 года везли вам самые интересные папиры<br>О них и куча нетворка: 11 декабря | 18:00 | Москва и онлайн<br>🔗 Подробная программа и регистрация по <a href=\"https://events.yandex.ru/events/ml-global-recap/11-dec-2025?utm_source=tg&amp;utm_medium=owned_media&amp;utm_campaign=recap2025_10_promo&amp;utm_content=ods\" rel=\"nofollow noopener noreferrer\">ссылке</a>.",
     "link": "https://t.me/powerofdata/250",
     "type": "text",
-    "views": 2103,
+    "views": 2104,
     "forwards": 9,
     "grouped_id": null,
     "media": [
@@ -456,7 +456,7 @@
     "html": "<a href=\"https://openai.com/index/gpt-5-1/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/gpt-5-1/</a>",
     "link": "https://t.me/powerofdata/249",
     "type": "photo",
-    "views": 1811,
+    "views": 1812,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -479,7 +479,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/248",
     "type": "image",
-    "views": 1483,
+    "views": 1484,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -819,7 +819,7 @@
     "html": "<strong>ИИ в науке</strong><br><br>- <strong>IBM и NASA предсказывают </strong>&quot;<strong>космическую погоду</strong>&quot;: Опубликована открытая модель Surya для прогнозирования солнечных вспышек и магнитных бурь. Модель разработана IBM совместно с NASA и стала первой «фундационной» AI-моделью в гелиофизике. Surya обучена на 9 годах высокочастотных снимков Солнца (≈218 ТБ данных с обсерватории SDO) В тестах она показала на 16% более высокую точность классификации солнечных вспышек по сравнению с предыдущими методами. Более того, Surya умеет визуально прогнозировать развитие вспышки – генерировать картину likely-событий за 2 часа до их возникновения. Модель и датасеты выложены в открытый доступ на Hugging Face, чтобы учёные по всему миру могли исследовать и улучшать методы предсказания космической погоды. По словам исследователей, точные прогнозы солнечных бурь помогут защитить спутники, энергосети, связь и другую критичную инфраструктуру на Земле [<a href=\"https://science.nasa.gov/science-research/artificial-intelligence-model-heliophysics/\" rel=\"nofollow noopener noreferrer\">science.nasa.gov</a>]<br><br>- <strong>GPT-4b micro для биотеха</strong>: OpenAI совместно с биотех-стартапом Retro Biosciences разработали специальную модель GPT-4b micro – мини-версию GPT-4o, адаптированную для задач молекулярной биологии. Цель проекта – ускорить исследования в области продления жизни, в частности улучшить технологии перепрограммирования стволовых клеток. Модель инициализировали уменьшенной копией GPT-4, а затем дообучили на массиве белковых последовательностей, аннотациях функций и даже токенизированных 3D-структурах белков. В отличие от традиционных protein-LLM, GPT-4b micro получает на вход не только последовательность аминокислот, но и контекст – описания, эволюционные гомологи, группы взаимодействующих белков. Благодаря этому модель может генерировать предложения по дизайну новых белков с заданными свойствами. В частности, GPT-4b micro сумела спроектировать улучшенные варианты факторов Яманаки (белки SOX2, KLF4), отвечающих за омоложение клеток. Экспериментально полученные белки показали в 50 раз более высокую экспрессию маркеров перепрограммирования клеток, чем исходные, и повысили восстановление ДНК, т.е. омолаживающий эффект. Модель способна работать как с структурированными, так и с «бесформенными» (intrinsically disordered) белками – она обучалась на данных, где большинство белков не имели стабильной структуры, что научило её одинаково хорошо обрабатывать гибкие, неупорядоченные участки молекул. Эти результаты открывают путь к более эффективной инженерии белков для биомедицины – от терапии старения до регенеративной медицины [<a href=\"https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/\" rel=\"nofollow noopener noreferrer\">openai.com</a>]<br><br><em>(А все, это последний блок =) Хорошего дня)</em>",
     "link": "https://t.me/powerofdata/237",
     "type": "text",
-    "views": 857,
+    "views": 859,
     "forwards": 0,
     "grouped_id": null,
     "media": [],
@@ -982,7 +982,7 @@
     "html": "Это дайджест AI новостей за неделю (11-17 августа)<br><br>- <a href=\"https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d\" rel=\"nofollow noopener noreferrer\">Google выпустила Gemma 3 270M — компактную открытую AI-модель с 270 млн параметров.</a><br><br>- <a href=\"https://www.reddit.com/r/OpenAI/comments/1mkhb9y/you_can_still_access_legacy_models_in_chatgpt/\" rel=\"nofollow noopener noreferrer\">OpenAI вернула старые модели в ChatGPT: платные подписчики теперь могут выбирать модели o3, o4-mini, GPT-4o, GPT-4.1 и GPT-4.5. Эти legacy-версии доступны в настройках ChatGPT</a><br><br>- <a href=\"https://survey.stackoverflow.co/2025\" rel=\"nofollow noopener noreferrer\">84% разработчиков используют ИИ, но 46% ему не доверяют. По данным опроса Stack Overflow 2025 года, большинство программистов применяют или планируют применять инструменты ИИ, однако почти половина опрошенных не доверяет точности их ответов</a><br><br>- <a href=\"https://wabetainfo.com/whatsapp-beta-for-android-2-23-17-14-whats-new/\" rel=\"nofollow noopener noreferrer\">WhatsApp тестирует генерацию стикеров по описанию. В бета-версии мессенджера появилась функция создания стикеров с помощью ИИ на основе текстовых подсказок пользователя </a><br><br>- <a href=\"https://www.zdnet.com/article/claude-can-teach-you-how-to-code-now-and-more-how-to-try-it/\" rel=\"nofollow noopener noreferrer\">Anthropic добавила режим “ИИ-репетитор” в Claude. Теперь чат-бот Claude может обучать пользователей: в среде Claude Code он выступает наставником по программированию, а в основном приложении способен объяснять материалы по другим дисциплинам через пошаговые подсказки</a><br><br>- <a href=\"https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_4da46a695f\" rel=\"nofollow noopener noreferrer\">ChatGPT получил интеграции с популярными сервисами. OpenAI внедрила “коннекторы”, позволяющие связать ChatGPT с Gmail, Dropbox, Microsoft Teams и GitHub – благодаря этому чат-бот может напрямую использовать данные из этих приложений</a><br><br>- <a href=\"https://tass.ru/nauka/24780157\" rel=\"nofollow noopener noreferrer\">ШАД Яндекса обучит ученых пользоваться ИИ. Школа анализа данных «Яндекса» запускает бесплатную двухгодичную программу, в рамках которой ученые из областей физики, химии, биологии, экологии, медицины и геологии научатся применять инструменты искусственного интеллекта в своих исследованиях</a><br><br>- <a href=\"https://blogs.nvidia.com/blog/blackwell-ai-acceleration-workstation-rtx-pro/\" rel=\"nofollow noopener noreferrer\">NVIDIA представила 70-ваттные RTX PRO 4000 SFF и RTX PRO 2000. Два новых компактных GPU на архитектуре Blackwell обеспечивают высокую производительность в задачах ИИ и графики при энергопотреблении всего 70 Вт, что делает их подходящими для малогабаритных рабочих станций</a><br><br>- <a href=\"https://news.aibase.com/news/20416\" rel=\"nofollow noopener noreferrer\">Новая нейросеть OpenAI отличилась на соревнованиях по программированию. Экспериментальная модель от OpenAI заняла первое место среди ИИ-участников международного конкурса по программированию, уступив в общем зачете лишь одному человеку. Она показала результат на уровне золотой медали олимпиады по информатике</a><br><br>- <a href=\"https://www.anthropic.com/news/1m-context\" rel=\"nofollow noopener noreferrer\">Контекстное окно Claude Sonnet 4 увеличено до 1 000 000 токенов. Компания Anthropic расширила максимум контекста модели Claude Sonnet 4 до 1 млн токенов (в 5 раз больше прежнего), что позволяет обрабатывать за один запрос целые кодовые базы или сотни страниц документов </a><br><br>- <a href=\"https://www.youtube.com/watch?v=UdoY2l5TZaA\" rel=\"nofollow noopener noreferrer\">В Claude появился режим длительной памяти. Чат-бот Anthropic Claude теперь умеет по запросу пользователя искать и просматривать информацию из предыдущих бесед, чтобы учитывать контекст в новых ответах</a><br><br>- <a href=\"https://blog.google/products/gemini/temporary-chats-privacy-controls/\" rel=\"nofollow noopener noreferrer\">Google Gemini запоминает прошлые чаты (по желанию). Новый функционал в Google Gemini позволяет ассистенту автоматически учитывать детали предыдущих разговоров для персонализации ответов. Пользователи при этом могут отключить сохранение истории в настройках и использовать «временные чаты» для приватности</a><br><br>- <a href=\"https://www.reuters.com/business/oracle-google-cloud-units-strike-deal-oracle-sell-gemini-models-2025-08-14/\" rel=\"nofollow noopener noreferrer\">Oracle интегрирует модели Google Gemini в своё облако. Oracle и Google Cloud заключили соглашение, по которому продвинутые модели ИИ Google Gemini станут доступны в облачной платформе Oracle. Клиенты Oracle смогут использовать возможности генеративного ИИ Gemini в бизнес-приложениях Oracle через интеграцию с сервисом Google Vertex AI</a>",
     "link": "https://t.me/powerofdata/232",
     "type": "text",
-    "views": 3561,
+    "views": 3562,
     "forwards": 12,
     "grouped_id": null,
     "media": [],
@@ -1016,7 +1016,7 @@
     "html": "<em>(без звука, пост фановый :) )<br></em><br>Какой лучший мерч вы видели/получали? И какой мерч вы бы хотели, но его никто никак не сделает?<br><br>Мой список:<br>- штаны. Сейчас у меня есть спортивки и джинсы из Яндекс.Магазина.Музея, но там есть примерочная. Ребята которые занимаются мерчом, говорят все слишком вариативно (длина, ширина, крой). Но у меня давно была идея для DataFest-а сделать штаны с «заниженным шаговым швом» (лоу кротч) и стразами сделать «данных полные штаны» (фото 1)<br>- кепки снепбэк. Визитная карточка Глеба Михеева и его кепки-глебки<br>- кожаный ручной мерч что я организовывал для датафест 2018 (фото 2) <br>- крутой кожаный несессЕр (кстати, французское слово, ударение на последний слог) коллеги делали для закрытого ивента Яндекса, максимальное используется мной в поездках<br><br>Жду ваши ответы, круто с фото, но только если  это не нижнее бельё.",
     "link": "https://t.me/powerofdata/230",
     "type": "photo",
-    "views": 1116,
+    "views": 1117,
     "forwards": 5,
     "grouped_id": 14042996127191386,
     "media": [
