@@ -4181,7 +4181,7 @@
     "html": "<a href=\"https://juliahub.com/blog/julia-now-available-on-google-colab\" rel=\"nofollow noopener noreferrer\">https://juliahub.com/blog/julia-now-available-on-google-colab</a><br><br>Новость будто из 2015<br>Но нет. 2025",
     "link": "https://t.me/powerofdata/216",
     "type": "photo",
-    "views": 2233,
+    "views": 2234,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -4312,7 +4312,7 @@
     "html": "27 сентября пройдет главное ML-событие года: Practical ML Conf<br>Это будет уже 3 Practical ML Conf<br><br>Приглашаю вас подать заявку на нашу хардовую и практическую конференцию по ML. <br>В этом году доклады принимаем как на офлайн в Москву так и на онлайн трек!<br>Для конца подачи остается пара дней!<br><br>Practical ML Conf - о чем не напишут в научных статьях!<br><a href=\"https://pmlconf.yandex.ru/call_for_papers?utm_source=pe&amp;utm_medium=tg&amp;utm_campaign=pml_cfp_25&amp;utm_content=petr_ermakov\" rel=\"nofollow noopener noreferrer\">Подать заявку можно тут</a>",
     "link": "https://t.me/powerofdata/220",
     "type": "text",
-    "views": 2258,
+    "views": 2259,
     "forwards": 4,
     "grouped_id": null,
     "media": [],
@@ -4342,7 +4342,7 @@
     "html": "Боже, храни нейросети!<br><a href=\"https://music.yandex.ru/album/36617817/track/139137779\" rel=\"nofollow noopener noreferrer\">https://music.yandex.ru/album/36617817/track/139137779</a><br><br>И те, что это создали!<br>И те, что мне это порекомендовали (кстати о них можно почитать <a href=\"https://habr.com/ru/companies/yandex/articles/919058/\" rel=\"nofollow noopener noreferrer\">тут</a> )",
     "link": "https://t.me/powerofdata/221",
     "type": "photo",
-    "views": 2286,
+    "views": 2287,
     "forwards": 23,
     "grouped_id": null,
     "media": [
@@ -4381,7 +4381,7 @@
     "html": "<a href=\"https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct\" rel=\"nofollow noopener noreferrer\">https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct</a>",
     "link": "https://t.me/powerofdata/222",
     "type": "photo",
-    "views": 1705,
+    "views": 1706,
     "forwards": 6,
     "grouped_id": null,
     "media": [
@@ -4420,7 +4420,7 @@
     "html": "<a href=\"https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct\" rel=\"nofollow noopener noreferrer\">https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct</a>",
     "link": "https://t.me/powerofdata/223",
     "type": "photo",
-    "views": 1198,
+    "views": 1199,
     "forwards": 5,
     "grouped_id": null,
     "media": [
@@ -4451,7 +4451,7 @@
     "html": "<a href=\"https://openai.com/index/introducing-gpt-oss/\" rel=\"nofollow noopener noreferrer\">https://openai.com/index/introducing-gpt-oss/</a><br><br>Ооо!!!",
     "link": "https://t.me/powerofdata/224",
     "type": "photo",
-    "views": 940,
+    "views": 941,
     "forwards": 2,
     "grouped_id": null,
     "media": [
@@ -4784,7 +4784,7 @@
     "html": "<strong>Новые инструменты и модели</strong><br><br>- <strong>Alibaba Qoder – AI-ассистент для кода</strong>: Alibaba запустила платформу Qoder, где модель помогает разработчикам писать программный код. В Quest Mode система автономно генерирует и тестирует код по заданным спецификациям, отмечая выполненные задачи (тикеты). В Agent Mode Qoder выступает в роли помощника: анализирует существующий код, подсказывает решения и отвечает на вопросы разработчика. Платформа автоматически выбирает оптимальную модель (Claude, Gemini или ChatGPT) под конкретную задачу. Сейчас Qoder доступен бесплатно, а позднее планируются платные тарифы. [<a href=\"https://qoder.com/\" rel=\"nofollow noopener noreferrer\">сайт модели</a>] [<a href=\"https://www.iphones.ru/iNotes/alibaba-zapustila-besplatnyy-ii-qoder-dlya-razrabotchikov-on-sam-pishet-kod-i-otmechaet-vypolnennye-zadachki\" rel=\"nofollow noopener noreferrer\">iphones.ru</a>]<br><br>- <strong>Модели для редактирования изображений от Alibaba:</strong> Представлена Qwen-Image-Edit – новая открытая модель для редактирования изображений. Она позволяет добавлять или удалять объекты по текстовому описанию, сохраняя остальную часть изображения неизменной. Кроме того, модель поддерживает сложные трансформации – например, поворот объекта на 180° (чтобы показать его обратную сторону) или перенос изображения в иной художественный стиль – при этом композиция и ключевые черты оригинала сохраняются. Qwen-Image-Edit также умеет редактировать текст на картинках, подменяя надписи без нарушения шрифтов и стиля. [<a href=\"https://huggingface.co/Qwen/Qwen-Image-Edit\" rel=\"nofollow noopener noreferrer\">hf</a>]<br><br>- <strong>Компактный LLM от Nvidia</strong>: Nemotron-Nano-9B-v2 – новая компактная языковая модель от Nvidia на 9 млрд параметров. Несмотря на относительно небольшой размер, модель достигает SOTA-производительности в своём классе и оснащена функцией переключаемого режима &quot;reasoning&quot; (включение/выключение рассуждений). Благодаря гибридной архитектуре Transformer+Mamba модель может задействовать селективные слои состояния для длинного контекста, что повышает скорость обработки – до 6 раз быстрее аналогичных моделей такого же размера. Nemotron 9B v2 поддерживает много языков (английский, китайский, русский и др.). Модель открыта для сообщества – веса и обучающие данные доступны на Hugging Face. [<a href=\"https://huggingface.co/collections/nvidia/nvidia-nemotron-689f6d6e6ead8e77dd641615\" rel=\"nofollow noopener noreferrer\">hf</a>] [<a href=\"https://build.nvidia.com/nvidia/nvidia-nemotron-nano-9b-v2/modelcard\" rel=\"nofollow noopener noreferrer\">nvidia.com</a>]<br><br>- <strong>Открытая MoE-модель Grok 2 от xAI</strong>: Компания Илона Маска xAI выложила на Hugging Face веса своей новой модели Grok 2. Это крупная Mixture-of-Experts LLM, архитектурно состоящая из 8 локальных экспертов (по 2 активных эксперта на токен), подобно Grok-1, но усовершенствованная. Grok 2 обладает окном контекста – до 131 072 токенов. [<a href=\"https://huggingface.co/xai-org/grok-2/blob/main/README.md\" rel=\"nofollow noopener noreferrer\">hf</a>]<br><br>- <strong>DeepSeek 3.1 – обновленая LLM от DeepSeek</strong>: Вышла новая версия DeepSeek v3.1 в 685-миллиардов параметров. Модель позиционируется как гибридная reasoning LLM. По данным разработчиков, DeepSeek 3.1 достигла такого же качества ответов, как DeepSeek-R1, но отвечает значительно быстрее. Релиз также включает новые примеры AI-агентов для кода и веб-поиска. [<a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V3.1\" rel=\"nofollow noopener noreferrer\">hf</a>]<br><br>- <strong>Примеры проектов на GPT-5</strong>: OpenAI запустила новую платформу с примерами приложений, созданных полностью силами GPT-5. На сайте собраны десятки работающих веб-приложений и игр, каждое из которых было сгенерировано одним-единственным GPT-5-промптом без ручного написания кода. Пользователи могут в реальном времени запускать эти демо, изучать исходный промпт, который GPT-5 превратил в приложение, и при желании скопировать этот промпт для воссоздания проекта. Цель инициативы – вдохновить разработчиков на использование GPT-5 при быстром прототипировании [<a href=\"https://gpt5-coding-examples.vercel.app/\" rel=\"nofollow noopener noreferrer\">сайт проекта</a>]",
     "link": "https://t.me/powerofdata/235",
     "type": "text",
-    "views": 677,
+    "views": 678,
     "forwards": 3,
     "grouped_id": null,
     "media": [],
@@ -4848,7 +4848,7 @@
     "html": "<strong>ИИ в науке</strong><br><br>- <strong>IBM и NASA предсказывают </strong>&quot;<strong>космическую погоду</strong>&quot;: Опубликована открытая модель Surya для прогнозирования солнечных вспышек и магнитных бурь. Модель разработана IBM совместно с NASA и стала первой «фундационной» AI-моделью в гелиофизике. Surya обучена на 9 годах высокочастотных снимков Солнца (≈218 ТБ данных с обсерватории SDO) В тестах она показала на 16% более высокую точность классификации солнечных вспышек по сравнению с предыдущими методами. Более того, Surya умеет визуально прогнозировать развитие вспышки – генерировать картину likely-событий за 2 часа до их возникновения. Модель и датасеты выложены в открытый доступ на Hugging Face, чтобы учёные по всему миру могли исследовать и улучшать методы предсказания космической погоды. По словам исследователей, точные прогнозы солнечных бурь помогут защитить спутники, энергосети, связь и другую критичную инфраструктуру на Земле [<a href=\"https://science.nasa.gov/science-research/artificial-intelligence-model-heliophysics/\" rel=\"nofollow noopener noreferrer\">science.nasa.gov</a>]<br><br>- <strong>GPT-4b micro для биотеха</strong>: OpenAI совместно с биотех-стартапом Retro Biosciences разработали специальную модель GPT-4b micro – мини-версию GPT-4o, адаптированную для задач молекулярной биологии. Цель проекта – ускорить исследования в области продления жизни, в частности улучшить технологии перепрограммирования стволовых клеток. Модель инициализировали уменьшенной копией GPT-4, а затем дообучили на массиве белковых последовательностей, аннотациях функций и даже токенизированных 3D-структурах белков. В отличие от традиционных protein-LLM, GPT-4b micro получает на вход не только последовательность аминокислот, но и контекст – описания, эволюционные гомологи, группы взаимодействующих белков. Благодаря этому модель может генерировать предложения по дизайну новых белков с заданными свойствами. В частности, GPT-4b micro сумела спроектировать улучшенные варианты факторов Яманаки (белки SOX2, KLF4), отвечающих за омоложение клеток. Экспериментально полученные белки показали в 50 раз более высокую экспрессию маркеров перепрограммирования клеток, чем исходные, и повысили восстановление ДНК, т.е. омолаживающий эффект. Модель способна работать как с структурированными, так и с «бесформенными» (intrinsically disordered) белками – она обучалась на данных, где большинство белков не имели стабильной структуры, что научило её одинаково хорошо обрабатывать гибкие, неупорядоченные участки молекул. Эти результаты открывают путь к более эффективной инженерии белков для биомедицины – от терапии старения до регенеративной медицины [<a href=\"https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/\" rel=\"nofollow noopener noreferrer\">openai.com</a>]<br><br><em>(А все, это последний блок =) Хорошего дня)</em>",
     "link": "https://t.me/powerofdata/237",
     "type": "text",
-    "views": 859,
+    "views": 860,
     "forwards": 0,
     "grouped_id": null,
     "media": [],
@@ -5495,7 +5495,7 @@
     "html": "Recycle ♻️ research",
     "link": "https://t.me/powerofdata/263",
     "type": "photo",
-    "views": 1458,
+    "views": 1459,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5538,7 +5538,7 @@
     "html": "",
     "link": "https://t.me/powerofdata/264",
     "type": "photo",
-    "views": 1448,
+    "views": 1450,
     "forwards": 1,
     "grouped_id": null,
     "media": [
@@ -5569,7 +5569,7 @@
     "html": "Друзья! у нас последний день регистрации на офлайн Practical ML Conf — <a href=\"https://pmlconf.yandex.ru/2026/\" rel=\"nofollow noopener noreferrer\">https://pmlconf.yandex.ru/2026/</a><br><br>Регистрируйтесь) А те, кто могут только онлайн — ждем в гости онлайн!",
     "link": "https://t.me/powerofdata/265",
     "type": "video",
-    "views": 4569,
+    "views": 4571,
     "forwards": 7,
     "grouped_id": null,
     "media": [
@@ -5604,7 +5604,7 @@
     "html": "В ночь с 7 на 8 октября дата-центр Яндекса в Сасово был серьезно повреждён из-за атаки БПЛА. Его работа полностью остановлена. Сегодня утром произошла атака на ещё один наш дата-центр, в Калуге. Часть инфраструктуры вышла из строя. Ни в Сасово, ни в Калуге сотрудники не пострадали. Сейчас на месте работают экстренные службы и наши специалисты. <br><br>Дата-центры — «железное сердце» Яндекса. Их работоспособность критична для сервисов, которые стали частью повседневной жизни людей. Миллионы пользователей проверяют пробки и строят маршруты, слушают музыку, смотрят кино, заказывают продукты и получают ответы на вопросы. Наши технологии помогают вести бизнес сотням тысяч компаний: принимать заказы, обслуживать клиентов, взаимодействовать с партнёрами.<br><br>Мы понимаем, что для наших пользователей, клиентов и партнёров каждый сбой — это нарушенные планы и невозможность сделать то, что было частью повседневной жизни или работы.<br><br>Команды Яндекса ночью и днём делают всё возможное, чтобы обеспечить работу сервисов и помочь тем, кого затронул инцидент. Сейчас это наша самая важная задача, но, к сожалению, она непростая.<br><br>Спасибо нашим сотрудникам — тем, кто находится на площадках, и тем, кто продолжает работать над восстановлением сервисов. Спасибо партнёрам за терпение и сотрудничество, а пользователям — за понимание.<br><br>Мы продолжаем оценивать состояние инфраструктуры — пока назвать сроки восстановления работы оборудования в дата-центрах очень сложно. Будем рассказывать о ситуации по мере появления информации.<br><br>Команда Яндекса <tg-emoji emoji-id=\"5379803978303290314\">❤️</tg-emoji>",
     "link": "https://t.me/powerofdata/266",
     "type": "photo",
-    "views": 791,
+    "views": 793,
     "forwards": 12,
     "grouped_id": null,
     "media": [
@@ -5651,7 +5651,7 @@
     "html": "Думал ли я в 2019 году, что в Теремке на одноразовой тарелке с блином будет написано Generative Pre-trained Transformer.<br><br>Ваша нейросеть обучена, сударь.",
     "link": "https://t.me/powerofdata/267",
     "type": "photo",
-    "views": 498,
+    "views": 500,
     "forwards": 19,
     "grouped_id": null,
     "media": [
